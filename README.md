@@ -14,4 +14,7 @@ Here are the assignments and projects that I have completed during the course of
 
 ## Data Visualization Critiques
 ## Data Visualization Workshops
+
+https://github.com/mhmirza/portfolio/blob/5aa281422282090f336f940a4616d5966fa5b0d3/dataviz2
+
 ## Final Project
