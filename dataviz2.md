@@ -15,7 +15,7 @@ The slope chart below allows us to identify the country with the highest Debt to
 
 The slope chart also enables a comparison between the starting point and the ending point. For example, we can see here how these players ranked as follows in 1995: 
 
-Country | 1995 Rank | 2020 Rank
+Country | 1995 Rank | 2019 Rank
 ------------ | ------------- | -------------
 Australia | 5 | 6
 France | 4 | 3
