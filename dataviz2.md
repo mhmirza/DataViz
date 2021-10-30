@@ -11,6 +11,17 @@ The grid of line charts below shows how the Debt to GDP ratio varies from 1995 t
 <div class="flourish-embed flourish-chart" data-src="visualisation/7682140"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Slope Chart
-The slope chart
+The slope chart below allows us to identify the country with the highest Debt to GDP ratio in 2019 within each sub-region, as defined by the United Nations. We can see below that Greece seems to outperform other countries in Southern Europe. Similarly, USA, France Great Britain, Hungary and Australia outrun others in their respective regions.
+
+The slope chart also enables a comparison between the starting point and the ending point. For example, we can see here how these players ranked as follows in 1995: 
+
+Country | 1995 Rank | 2020 Rank
+------------ | ------------- | -------------
+Australia | 5 | 6
+France | 4 | 3
+Great Britain | 6 | 4
+Greece | 1 | 1
+Hungary | 3 | 5
+United States | 2 | 2
 
 <div class="flourish-embed flourish-slope" data-src="visualisation/7682425"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
