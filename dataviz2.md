@@ -33,7 +33,7 @@ In contrast, the grid of line charts is more space consuming, but visualizes two
 
 Finally, I chose slope chart as the third option since it trades off granularity for simplicity, but still manages to convey the key idea of how the Debt to GDP ratio has changed over the analyzed time period. The original data set from the OECD website had to be adjusted so that each country appeared only once in the first column and the Debt to GDP ratio for each year displayed in subsequent columns. Often known as the line chart's fraternal twin, the slope chart displays exactly two points in time, which leaves an ascending or descending slope unnoticed.
 
-## Part 2: Working with Tableau
+## Part 3: Working with Tableau
 ### Highlight Tables
 The graphic below was developed using Tableau. It visualizes the GDP to Debt ratio from 1995 to 2019 for 34 countries. The color scheme is defined to be orange for countries which have a ratio above 100, and blue for those with a ratio below 100. 
 
