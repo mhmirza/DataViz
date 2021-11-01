@@ -1,6 +1,6 @@
 ## Part 1: Working with web-based visualization tools and data
 ### Bar Chart - European Union
-The bar chart below depicts the gross debt of the general government as a percentage of GDP for the year 2019. The bars are arranged in an ascending order of this metric from left to right. Across the 23 countries in the data set, Estonia's general government debt as a percentage of GDP is the lowest at 14%, whereas Greece has the highest general government debt as a percentage of GDP at 201%.
+The bar chart below depicts the gross debt of the general government as a percentage of GDP for the year 2019. The bars are arranged in an ascending order of this metric from left to right and each of the 23 countries in the data set is reflected by a separate bar. Overall, Estonia's general government debt as a percentage of GDP is the lowest at 14%, whereas Greece has the highest general government debt as a percentage of GDP at 201%.
 
 <iframe src="https://data.oecd.org/chart/6vlI" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vlI" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
