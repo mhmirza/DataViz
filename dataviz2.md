@@ -24,6 +24,8 @@ Greece | 1 | 1
 Hungary | 3 | 5
 United States | 2 | 2
 
+<div class="flourish-embed flourish-slope" data-src="visualisation/7682425"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Part 2: Working with Tableau
 ### Highlight Tables
 The grapahic below was developed using Tableau. It visualizes the GDP to Debt ratio from 1995 to 2019 for 34 countries. The color scheme is defined to be orange for countries which have a ratio above 100, and blue for those with a ratio below 100. 
