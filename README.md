@@ -15,6 +15,6 @@ Here are the assignments and projects that I have completed during the course of
 ## Data Visualization Critiques
 ## Data Visualization Workshops
 
-[OECD Data Visualization](/dataviz2.md)
+[Assignment 2](/dataviz2.md)
 
 ## Final Project
