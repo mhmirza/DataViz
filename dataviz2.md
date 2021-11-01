@@ -11,9 +11,9 @@ The grid of line charts below shows how the Debt to GDP ratio varies from 1995 t
 <div class="flourish-embed flourish-chart" data-src="visualisation/7682140"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Slope Chart
-The slope chart below allows us to navigate through the transition of each country across four, consistently spaced time periods. Here, we have highlighted the country with the highest Debt to GDP ratio in 2019 within the sub-region it has been assigned by the United Nations. 
+The slope chart below allows us to navigate through the transition of each country across four, consistently spaced time periods. I have highlighted here the country with the highest Debt to GDP ratio in 2019 within the sub-region it has been assigned by the United Nations. 
 
-It can be seen below that Greece seems to outperform other countries in Southern Europe. Similarly, USA, France, Great Britain, Hungary and Australia outrun others in their respective regions. The slope chart also enables us to see and compare the ranks for these players between the starting and ending time periods for this data set: 
+It can be seen below that Greece seems to outperform other countries in Southern Europe. Similarly, USA, France, Great Britain, Hungary and Australia outran others in their respective regions. The slope chart also enables us to see and compare the ranks for these players between the starting and ending time periods for this data set: 
 
 Country | 1995 Rank | 2019 Rank
 ------------ | ------------- | -------------
@@ -25,6 +25,13 @@ Hungary | 3 | 5
 United States | 2 | 2
 
 <div class="flourish-embed flourish-slope" data-src="visualisation/7682425"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Comparing the Visualizations Above
+The bar chart provides information regarding the Debt to GDP ratio for each country in a specific time period only i.e. 2019. It allows comparison across countries but does not provide information over the years. This restricts this visualization if one intends to see how a single country has performed on this metric over time. 
+
+In contrast, the grid of line charts is more space consuming, but allows for country and time specific analysis both. This also allows us to expand on the basic visualization and highlight major economic events on the graph to see if they had any impact on the Debt to GDP ratio. While this visualization is effective for displaying trends at a high level, it has a downside to it as well: unlike a bar chart, it does not provide an immediate cross country comparison for a specific time period, and figuring that out may require significant eye travel. 
+
+Finally, I chose slope chart as the third option since it trades off granularity for simplicity, but still manages to convey the key idea i.e. the changes that have occured in the Debt to GDP ratio over the analyzed time period. Often known as the line chart's fraternal twin, slope chart displays exactly two points in time.
 
 ## Part 2: Working with Tableau
 ### Highlight Tables
