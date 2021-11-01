@@ -1,12 +1,12 @@
 ## Part 1: Working with web-based visualization tools and data
 ### Debt-to-GDP ratio for European Union
-The bar chart below depicts the Gross Debt of the general government as a percentage of GDP for the year 2019. The bars are arranged in an ascending order of this metric from left to right. Across the 23 countries in the data set, Estonia's general government debt as a percentage of GDP is the lowest at 14%, whereas Greece has the highest general government debt as a percentage of GDP at 201%.
+The bar chart below depicts the gross debt of the general government as a percentage of GDP for the year 2019. The bars are arranged in an ascending order of this metric from left to right. Across the 23 countries in the data set, Estonia's general government debt as a percentage of GDP is the lowest at 14%, whereas Greece has the highest general government debt as a percentage of GDP at 201%.
 
 <iframe src="https://data.oecd.org/chart/6vlI" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vlI" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
 ## Part 2: Working with Flourish
 ### Grid of Line Charts
-The grid of line charts below shows how the Debt to GDP ratio varies from 1995 to 2019 across different countries. The dashed vertical line marks the start of the recession in 2007, to provide a comparison of this metric before and after this event. 
+The grid of line charts below shows how the Debt to GDP ratio varies from 1995 to 2019 for each country in the data set. The dashed vertical line marks the start of the recession in 2007, and intends to provide a comparison of this metric before and after this event. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7682140"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
