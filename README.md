@@ -13,6 +13,9 @@ From the course, Telling Stories with Data, I wish to learn how to utilize diffe
 Here are the assignments and projects that I have completed during the course of this class.
 
 ## Data Visualization Critiques
+
+[Assignment 3 & 4](/critique-by-design.md)
+
 ## In-class Exercises
 
 [Simmons Research](/inclass.md)
