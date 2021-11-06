@@ -54,12 +54,9 @@ The wireframes helped me map my thought process, understand the type of data ava
 
 For my final visualization below, I had to rework the data to show a line chart that could help identify a trend over the years, 2011 to 2020. With a broad enough time horizon, the audience would be able to see whether Forex Reserves were in any way correlated with the US-China trade war. Instead of grouping countries based on regions, I decided to only show countries which had the highest Forex Reserves in their region (in addition to US and China). This was in line with insights from the critique and user feedback, aiming to make the graph look less busy, without compromising on its _completeness_. A red highlight on the x-axis allowed me to highlight the main event under question i.e. the US-China trade war and included a menu at the top for individuals who would solely be interested in a comparison between the US and China. I also used color blind safe palette for the lines and rephrased the title/ subtitle support the premise of the article.
 
-### Line Chart: 
-
 <div class="flourish-embed flourish-chart" data-src="visualisation/7746600"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 In my wireframe, I highlighted a limitation of bar charts: an absence of trends over time. However, I was able to explore this animated bar chart which interestingly serves the purpose of easing comparison between countries and showing their progress over time. Although, I couldn't highlight the US-China Trade War as an event here, I still thought it would be a good addition to this portfolio!
 
-### Bar Chart with Trends: 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/7746758"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
