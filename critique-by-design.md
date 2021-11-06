@@ -14,7 +14,7 @@ Reference data for foreign exchange reserves of different countries across sever
 
 ## Part 3: Wireframe a Solution
 
-I tried using the tool [Balsamiq](/https://balsamiq.com/) to draft my thought process. Considering the type of data, I decided to use another visualization type to redesign the map above. I first considered using either a bar or a line chart below, but decided to sketch only the line chart due to the limitations identified with bar charts in representing this data, primarily the absence of historical trends. 
+I tried using the tool [Balsamiq](/https://balsamiq.com/) to draft my thought process. Considering the type of data, I decided to use another visualization type to redesign the map above based on the issues identified in the critique method. I first considered using either a bar or a line chart below, but decided to sketch only the line chart due to the limitations identified with bar charts in representing this data, primarily the absence of historical trends. 
 
 ![image](https://user-images.githubusercontent.com/93225948/140595253-8f119be3-1cc9-4ca5-b15b-147070cbc763.png)
 ![image](https://user-images.githubusercontent.com/93225948/140595176-3e15acfe-4b1d-4421-ac98-dbd544f7fcde.png)
