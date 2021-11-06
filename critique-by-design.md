@@ -11,3 +11,8 @@ I have chosen the data visualization reflecting the Foreign Exchange Reserves of
 Reference data for foreign exchange reserves of different countries across several years was retrieved using the World Bank's [Data Repository](/https://data.worldbank.org/indicator/FI.RES.XGLD.CD).
 
 <iframe width="800" height="600" src="https://cdn.howmuch.net/articles/the-forex-worldmap-final-8322.jpg"></iframe>
+
+## Ppart 3: Wireframe a Solution
+![image](https://user-images.githubusercontent.com/93225948/140595176-3e15acfe-4b1d-4421-ac98-dbd544f7fcde.png)
+![image](https://user-images.githubusercontent.com/93225948/140595199-5c3868e0-f189-40e7-b638-9217ac730655.png)
+![image](https://user-images.githubusercontent.com/93225948/140595204-038a58ce-b867-4436-aae1-5667eeccc677.png)
