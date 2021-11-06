@@ -24,3 +24,10 @@ I tried using the tool [Balsamiq](/https://balsamiq.com/) to draft my thouoght p
 ### Audience Feedback 
 
 I showed the wireframe to two individuals: my spouse, considering her academic background in Political Science and another former colleague at Central European University.
+
+• Can you tell me what you think this is?
+
+• Can you describe to me what this is telling you?
+• Is there anything you find surprising or confusing?
+• Who do you think is the intended audience for this?
+• Is there anything you would change or do differently?
