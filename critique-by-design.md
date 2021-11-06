@@ -21,7 +21,7 @@ I tried using the tool [Balsamiq](/https://balsamiq.com/) to draft my thought pr
 ![image](https://user-images.githubusercontent.com/93225948/140595199-5c3868e0-f189-40e7-b638-9217ac730655.png)
 ![image](https://user-images.githubusercontent.com/93225948/140595204-038a58ce-b867-4436-aae1-5667eeccc677.png)
 
-### Audience Feedback 
+## Part 4: Test the Solution 
 
 I showed the wireframe to two individuals: my spouse, considering her academic background in Political Science and another peer at Carnegie Mellon University. Responses from each individual are mentioned under the questions.
 
@@ -44,3 +44,7 @@ I showed the wireframe to two individuals: my spouse, considering her academic b
 **Is there anything you would change or do differently?**
 1. There seems to be a lot of clutter with the lines and labels on the graph. Perhaps this is a problem with the prototype and if drawn to scale with more space, it would be less of a strain for the audience to draw conclusions. If the top 3 countries are shown from each region of the world together, this type of visualization might fail to convey any insight.
 2. Introduce a print version (black and white version) for this graph. Colors can be deceiving in print versions (and even for audiences suffering with some form of color-blindness) so adding different symbols for each curve data point might be a better idea.
+
+## Part 5: Build Your Solution
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7746600"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
