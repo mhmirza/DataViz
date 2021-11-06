@@ -23,4 +23,4 @@ I tried using the tool [Balsamiq](/https://balsamiq.com/) to draft my thouoght p
 
 ### Audience Feedback 
 
-I showed the wireframe to two individuals: my spouse and another former colleague at Central European University.
+I showed the wireframe to two individuals: my spouse, considering her academic background in Political Science and another former colleague at Central European University.
