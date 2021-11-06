@@ -27,7 +27,7 @@ I showed the wireframe to two individuals: my spouse, considering her academic b
 
 **Can you tell me what you think this is?**
 1. A line chart depicting the FOREX reserves of major countries over a period of time.
-2. Change in Forex reserves over the years for different countries
+2. Change in Forex reserves over the years for different countries.
 
 **Can you describe to me what this is telling you?**
 1. While drawing comparison between the countries that have the highest FOREX reserves in their regions, the graph highlights how much greater China's reserves are compared to the rest of the world.
