@@ -48,3 +48,4 @@ I showed the wireframe to two individuals: my spouse, considering her academic b
 ## Part 5: Build Your Solution
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7746600"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/7746758"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
