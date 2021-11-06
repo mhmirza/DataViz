@@ -25,17 +25,17 @@ I tried using the tool [Balsamiq](/https://balsamiq.com/) to draft my thought pr
 
 I showed the wireframe to two individuals: my spouse, considering her academic background in Political Science and another former colleague at Central European University.
 
-• Can you tell me what you think this is?
+**Can you tell me what you think this is?**
 A line chart depicting the FOREX reserves of major countries over a period of time.
 
-• Can you describe to me what this is telling you?
+**Can you describe to me what this is telling you?**
 While drawing comparison between the countries that have the highest FOREX reserves in their regions, the graph highlights how much greater China's reserves are compared to the rest of the world.
 
-• Is there anything you find surprising or confusing?
+**Is there anything you find surprising or confusing?**
 From 2019-2020, all countries seem to have either a relatively steady or increasing FOREX reserves. The United States' reserves are much lower than those of China's.
 
-• Who do you think is the intended audience for this?
+**Who do you think is the intended audience for this?**
 The audience is most likely governments, or  independent entities, such as the World Bank Group or International Monetary Fund, who could utilize this visualization.
 
-• Is there anything you would change or do differently?
+**Is there anything you would change or do differently?**
 There seems to be a lot of clutter with the lines and labels on the graph. Perhaps this is a problem with the prototype and if drawn to scale with more space, it would be less of a strain for the audience to draw conclusions. If the top 3 countries are shown from each region of the world together, this type of visualization might fail to convey any insight.
