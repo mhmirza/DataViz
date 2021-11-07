@@ -26,24 +26,24 @@ I tried using the tool [Balsamiq](http://balsamiq.com/) to draft my thought proc
 I showed the wireframe to two individuals: my spouse, considering her academic background in Political Science and another peer at Carnegie Mellon University. Responses from each individual are mentioned under the questions.
 
 **Can you tell me what you think this is?**
-1. A line chart depicting the FOREX reserves of major countries over a period of time.
-2. Change in Forex reserves over the years for different countries.
+1. _"A line chart depicting the FOREX reserves of major countries over a period of time."_
+2. _"Change in Forex reserves over the years for different countries."_
 
 **Can you describe to me what this is telling you?**
-1. While drawing comparison between the countries that have the highest FOREX reserves in their regions, the graph highlights how much greater China's reserves are compared to the rest of the world.
-2. Before and after-effects of US-China trade wars on Forex reserve.
+1. _"While drawing comparison between the countries that have the highest FOREX reserves in their regions, the graph highlights how much greater China's reserves are compared to the rest of the world."_
+2. _"Before and after-effects of US-China trade wars on Forex reserve."_
 
 **Is there anything you find surprising or confusing?**
-1. From 2019-2020, all countries seem to have either a relatively steady or increasing FOREX reserves. The United States' reserves are much lower than those of China's.
-2. Seeing same color for Japan and China got me confused. At first, I thought these are different colors and I am not looking at them properly but realized from the key that you have clubbed colors as per region.
+1. _"From 2019-2020, all countries seem to have either a relatively steady or increasing FOREX reserves. The United States' reserves are much lower than those of China's."_
+2. _"Seeing same color for Japan and China got me confused. At first, I thought these are different colors and I am not looking at them properly but realized from the key that you have clubbed colors as per region."_
 
 **Who do you think is the intended audience for this?**
-1. The audience is most likely governments, or  independent entities, such as the World Bank Group or International Monetary Fund, who could utilize this visualization.
-2. Those who have some knowledge of the war and how it can possibly affect forex rates so definitely an audience that has some background knowledge on international affairs and political economies.
+1. _"The audience is most likely governments, or  independent entities, such as the World Bank Group or International Monetary Fund, who could utilize this visualization."_
+2. _"Those who have some knowledge of the war and how it can possibly affect forex rates so definitely an audience that has some background knowledge on international affairs and political economies."_
 
 **Is there anything you would change or do differently?**
-1. There seems to be a lot of clutter with the lines and labels on the graph. Perhaps this is a problem with the prototype and if drawn to scale with more space, it would be less of a strain for the audience to draw conclusions. If the top 3 countries are shown from each region of the world together, this type of visualization might fail to convey any insight.
-2. Introduce a print version (black and white version) for this graph. Colors can be deceiving in print versions (and even for audiences suffering with some form of color-blindness) so adding different symbols for each curve data point might be a better idea.
+1. _"There seems to be a lot of clutter with the lines and labels on the graph. Perhaps this is a problem with the prototype and if drawn to scale with more space, it would be less of a strain for the audience to draw conclusions. If the top 3 countries are shown from each region of the world together, this type of visualization might fail to convey any insight."_
+2. _"Introduce a print version (black and white version) for this graph. Colors can be deceiving in print versions (and even for audiences suffering with some form of color-blindness) so adding different symbols for each curve data point might be a better idea."_
 
 ## Part 5: Build Your Solution
 
