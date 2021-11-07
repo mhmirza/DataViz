@@ -8,7 +8,7 @@ This data visualization reflects the Foreign Exchange Reserves of different coun
 2. The visualization does not support the main premise of the article since it does not provide any trends for comparison but only offers a snapshot view of this economic indicator for one quarter.
 3. The graphic does does not follow principles of good design and has room for improvement across several elements, if evaluated on the heuristics model.
 
-Reference data for foreign exchange reserves of different countries across several years was retrieved using the World Bank's [Data Repository(/data.worldbank.org/indicator/FI.RES.XGLD.CD).
+Reference data for foreign exchange reserves of different countries across several years was retrieved using the World Bank's [Data Repository(http://data.worldbank.org/indicator/FI.RES.XGLD.CD).
 
 <iframe width="800" height="600" src="https://cdn.howmuch.net/articles/the-forex-worldmap-final-8322.jpg"></iframe>
 
