@@ -30,7 +30,7 @@ To build my narrative on the "Setup, Conflict and Resolution framework", I explo
 5. This dataset from [Fashion Research](https://www.kaggle.com/thomaskonstantin/fashion-researchpersonal-and-garment-information) conducted by the Holon Institute of Technology would be used to represent the distribution of clothes ownership in a country.
 
 ### Conflict:
-1. The table[https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/textiles-material-specific-data#TextilesTableandGraph] on United States EPA website will be used to show the percentage of textiles generated, which are recycled, combusted or landfilled.
+1. The [table](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/textiles-material-specific-data#TextilesTableandGraph) on United States EPA website will be used to show the percentage of textiles generated, which are recycled, combusted or landfilled.
 2.  
 
 ## Method and Medium:
