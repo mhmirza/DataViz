@@ -31,8 +31,8 @@ To build my narrative on the "Setup, Conflict and Resolution framework", I explo
 
 ### Conflict
 1. The [table](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/textiles-material-specific-data#TextilesTableandGraph) on United States EPA website will be used to show the percentage of textiles generated, which are either recycled, combusted or landfilled.
-2. The [table](https://ourworldindata.org/grapher/plastic-production-polymer?tab=table) would be used to show the primary plastic production by polymer type in 2015 to highlight how PP & A and Fibers are one of the leading contributors.
-3. The figure _Global releases of primary microplastics to the world oceans_ from the [report](https://portals.iucn.org/library/sites/library/files/documents/2017-002-En.pdf) would be used to recreate a visualization for showing the main sources of ocean pollution.
+2. This [table](https://ourworldindata.org/grapher/plastic-production-polymer?tab=table) would be used to show the primary plastic production by polymer type in 2015 to highlight how PP & A and Fibers are one of the leading contributors.
+3. This figure _Global releases of primary microplastics to the world oceans_ from the [report](https://portals.iucn.org/library/sites/library/files/documents/2017-002-En.pdf) would be used to recreate a visualization for showing the main sources of ocean pollution.
 4. This [link](https://www.statista.com/statistics/1102998/carbon-footprint-of-european-fashion-brands/) from Statista would be used to download an excel file for showing the _Annual total carbon emissions released by leading European apparel retailers in 2019_. The data can be viewed for free following account creation!
 5. This [report](https://www.annacavazzini.eu/wp-content/uploads/GreensEFA-study-on-Europes-Child-Labour-Footprint.pdf) would be used to show the value of EU cotton imports from different countries, whcih have possibly been produced with child labour.
 
