@@ -20,7 +20,7 @@ McKinsey & Co. has highlighted increasing clothing utilization and improving rec
 
 ## The Data:
 
-To build my narrative on the "Setup, Conflict and Resolution framework", I explored datasets that could address each of these. Since I may not be including all the visualizations discussed above in my presentation, I may end up using fewer datasets than the ones provided below.
+To build my narrative on the "Setup, Conflict and Resolution framework", I explored datasets that could address each of these. **Since I may not be including all the visualizations discussed above in my presentation, I may end up using fewer datasets than the ones provided below.**
 
 ### Setup:
 1. The dataset on _Per Capita Sales (2000 - 2019)_ from the [Annual Retail Survey](https://www.census.gov/data/tables/2019/econ/arts/annual-report.html) would be used to show the expenditure on clothing as a fraction of total retail spending per capita. 
@@ -30,7 +30,10 @@ To build my narrative on the "Setup, Conflict and Resolution framework", I explo
 5. This dataset from [Fashion Research](https://www.kaggle.com/thomaskonstantin/fashion-researchpersonal-and-garment-information) conducted by the Holon Institute of Technology would be used to represent the distribution of clothes ownership in a country.
 
 ### Conflict:
-1. The [table](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/textiles-material-specific-data#TextilesTableandGraph) on United States EPA website will be used to show the percentage of textiles generated, which are recycled, combusted or landfilled.
-2.  
+1. The [table](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/textiles-material-specific-data#TextilesTableandGraph) on United States EPA website will be used to show the percentage of textiles generated, which are either recycled, combusted or landfilled.
+2. The [table](https://ourworldindata.org/grapher/plastic-production-polymer?tab=table) would be used to show the primary plastic production by polymer type in 2015 to highlight how PP & A and Fibers are one of the leading contributors.
+3. The figure _Global releases of primary microplastics to the world oceans_ from the [report](https://portals.iucn.org/library/sites/library/files/documents/2017-002-En.pdf) would be used to recreate a visualization for showing the main sources of ocean pollution.
+4. This [link](https://www.statista.com/statistics/1102998/carbon-footprint-of-european-fashion-brands/) from Statista would be used to download an excel file for showing the _Annual total carbon emissions released by leading European apparel retailers in 2019_. The data can be viewed for free following account creation!
+5. 
 
 ## Method and Medium:
