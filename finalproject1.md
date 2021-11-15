@@ -4,7 +4,7 @@ This project on the repercussions of the increasing popularity of fast fashion a
 ## Project Outline:
 
 ### 1. Are people spending more on clothes now?
-This section would show how the average expenditure on clothing as a fraction of total retail spending per capita has fallen over the years. This would help negate the premise of the project and build some context regarding how individuals might have a tendency to only assess a part of the story. A visualization would immediately follow showing how prices in the apparel industry have indeed risen at a lower rate compared to other retail items, which explains a fall in proportional expenditures but not necessarily a fall in consumption.
+This section would show how expenditure on clothing as a fraction of total retail spending per capita has fallen over the years. This would help negate the premise of the project and build some context regarding how individuals might have a tendency to only assess a part of the story. A visualization would immediately follow showing how prices in the apparel industry have indeed risen at a lower rate compared to other retail items, which explains a fall in proportional expenditures but not necessarily a fall in consumption.
 
 ### 2. Is fast fashion leading to excess apparel consumption?
 This section intends to convey the scale at which the fast fashion industry is growing along with a forecast of how it is expected to grow. To reinforce the "fast" in fashion, a visualization would highlight how retailers now have to hold growing inventories to keep the "newness" factor in apparel alive. Based on this context, I will try to link how there has also been a corresponding increase in apparel consumption through a stacked bar chart will be shown to convey the percentage of unworn clothes in the wardrobe across different countries. Another possible visualization which could be used here is a scatter plot, which would show that a significant fraction of respondents from a survey conducted across different neighbourhoods of a Middle Eastern country owned more than 200 items of clothes. This would hopefully ring the first alarm bell! 
@@ -21,5 +21,7 @@ McKinsey & Co. has highlighted increasing clothing utilization and improving rec
 ## The Data:
 
 ## Method and Medium:
+To build my narrative on the "Setup, Conflict and Resolution framework", I explored datasets that could address each of these. Since I may not be including all the visualizations discussed above in my presentation, I may end up using fewer datasets than the ones provided below.
 
+This [dataset](https://www.census.gov/data/tables/2019/econ/arts/annual-report.html) would be used to show the expenditure on clothing as a fraction of total retail spending per capita. 
 
