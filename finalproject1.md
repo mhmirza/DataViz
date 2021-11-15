@@ -29,6 +29,8 @@ One garbage truck of clothes are burned or landfilled every second, enough to fi
 ### 5. Call to Action.
 McKinsey & Co. has highlighted increasing clothing utilization and improving recycling as two of the four ambitions for a new textile economy, where we as consumers can certainly play a part. It is important for consumers to buy from responsible brands such as Eileen Fisher, which are introducing programs such as ReNew, through which they accept any of their old clothing back, regardless of the condition. The next time you don't buy a pair of shoes that you don't really need, don't feel disappointed because you have contributed to the environment. This heatmap, showing the savings that could potentially come from averting production of each Kilogram of clothing, can probably make you feel better about the purchase choices that you make. Curtail the demand, and the supply will follow suit!
 
+![WhatsApp Image 2021-11-15 at 6 17 04 PM](https://user-images.githubusercontent.com/93225948/141867773-5f0f0b3e-229b-4da2-8119-412da0007111.jpeg)
+
 ## The Data
 
 To build my narrative on the "Setup, Conflict and Resolution framework", I explored datasets that could address each of these. **Since I may not be including all the visualizations discussed above in my presentation, I may end up using fewer datasets than the ones provided below.**
@@ -52,5 +54,3 @@ This section would primarily rely on insights from the reports: [Water, Energy a
 
 ## Method and Medium
 To draft my thought process and knit the elements of the story together, I would use [Balsamiq](https://balsamiq.com/) to create wireframes and storyboards. For visualizations, I would use [Flourish](https://flourish.studio/) due to its ease of use and [Tableau](https://www.tableau.com/) where I need more flexible functionality. In terms of images, I would explore [Unsplash](https://unsplash.com/) to find images that could leave an impact on the audience and also relate to my narrative. Finally, to create the story website by coalescing all sections, I would be using [Shorthand](https://shorthand.com/).
-
-![WhatsApp Image 2021-11-15 at 6 17 04 PM](https://user-images.githubusercontent.com/93225948/141867773-5f0f0b3e-229b-4da2-8119-412da0007111.jpeg)
