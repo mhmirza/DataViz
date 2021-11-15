@@ -23,5 +23,8 @@ McKinsey & Co. has highlighted increasing clothing utilization and improving rec
 ## Method and Medium:
 To build my narrative on the "Setup, Conflict and Resolution framework", I explored datasets that could address each of these. Since I may not be including all the visualizations discussed above in my presentation, I may end up using fewer datasets than the ones provided below.
 
-This [dataset](https://www.census.gov/data/tables/2019/econ/arts/annual-report.html) would be used to show the expenditure on clothing as a fraction of total retail spending per capita. 
+1. The dataset on _Per Capita Sales (2000 - 2019)_ from the [Annual Retail Survey](https://www.census.gov/data/tables/2019/econ/arts/annual-report.html) would be used to show the expenditure on clothing as a fraction of total retail spending per capita. 
+2. The dataset _Revised seasonally adjusted indexes and factors, 2016-2020_ from the [US BLS' CPI Seasonal Adjustment Tables](https://www.bls.gov/cpi/tables/seasonal-adjustment/home.htm) would be used to show a comparison of price changes of clothing items versus all retail items. 
+
+
 
