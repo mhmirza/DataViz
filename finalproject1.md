@@ -17,3 +17,9 @@ One garbage truck of clothes are burned or landfilled every second, enough to fi
 
 ### 5. Call to Action.
 McKinsey & Co. has highlighted increasing clothing utilization and improving recycling as two of the four ambitions for a new textile economy, where we as consumers can certainly play a part. It is important for consumers to buy from responsible brands such as Eileen Fisher, who are introducing programs such as ReNew program, through which they accept any of their old clothing back, regardless of the condition. The next time you don't buy a pair of shoes that you don't really need, don't feel disappointed because you have contributed to the environment. This heatmap, showing the savings that could potentially come from averting production of each Kilogram of clothing, can probably make you feel better about the purchase choices that you make. Curtail the demand, and the supply will follow suit!
+
+## The Data:
+
+## Method and Medium:
+
+
