@@ -52,3 +52,5 @@ This section would primarily rely on insights from the reports: [Water, Energy a
 
 ## Method and Medium
 To draft my thought process and knit the elements of the story together, I would use [Balsamiq](https://balsamiq.com/) to create wireframes and storyboards. For visualizations, I would use [Flourish](https://flourish.studio/) due to its ease of use and [Tableau](https://www.tableau.com/) where I need more flexible functionality. In terms of images, I would explore [Unsplash](https://unsplash.com/) to find images that could leave an impact on the audience and also relate to my narrative. Finally, to create the story website by coalescing all sections, I would be using [Shorthand](https://shorthand.com/).
+
+![WhatsApp Image 2021-11-15 at 6 17 04 PM](https://user-images.githubusercontent.com/93225948/141867773-5f0f0b3e-229b-4da2-8119-412da0007111.jpeg)
