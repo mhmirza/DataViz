@@ -27,7 +27,7 @@ To build my narrative on the "Setup, Conflict and Resolution framework", I explo
 2. The dataset on _Revised seasonally adjusted indexes and factors, 2016-2020_ from the [US BLS' CPI Seasonal Adjustment Tables](https://www.bls.gov/cpi/tables/seasonal-adjustment/home.htm) would be used to show a comparison of price changes of clothing items versus all retail items. 
 3. The dataset from [Monthly Retail Trade Survey](https://data.world/uscensusbureau/monthly-retail-trade-survey) would be used to show how inventories held by retail stores in the United States have growtn over the years.
 4. The table providing the percentage of unworn clothes in the wardrobe across different countries would be used from this [article](https://www.consumptionandenvironment.com/home/how-many-clothes-we-own-and-how-many-clothes-we-wear) as proxy to visualize apparel consumption and its excess. 
-5. This dataset from [Fashion Research](https://www.kaggle.com/thomaskonstantin/fashion-researchpersonal-and-garment-information) conducted by the Holon Institute of Technology would be used to represent the distribution of clothes ownership in a country.
+5. This dataset from [Fashion Research](https://www.kaggle.com/thomaskonstantin/fashion-researchpersonal-and-garment-information) conducted by the Holon Institute of Technology would be used to represent the distribution of clothes ownership in a specific country.
 
 ### Conflict
 1. The [table](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/textiles-material-specific-data#TextilesTableandGraph) on United States EPA website will be used to show the percentage of textiles generated, which are either recycled, combusted or landfilled.
