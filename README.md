@@ -25,3 +25,5 @@ Here are the assignments and projects that I have completed during the course of
 [Assignment 2](/dataviz2.md)
 
 ## Final Project
+
+# [Part 1](/finalproject1.md) 
