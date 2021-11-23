@@ -23,7 +23,7 @@ Improvement | To seek user advice on specific elements which need to be changed 
 ### Interview Findings
 
 Question | Person 1 | Person 2 | Person 3                
------------- | ------------- | -------------
+------------ | ------------- | ------------- | -------------
 At first glance, what do you think is the key idea of the presentation? | XYZ | XYZ | XYZ
 
 ### Changes Based on User Feedback
