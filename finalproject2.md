@@ -4,13 +4,9 @@
 For my storyboard, I decided to use [Shorthand](https://shorthand.com/) since I felt its functionality would allow me to represent the story in the form that is closest to the final. Not only did it allow me to piece the story together using my outline from [Part 1](/finalproject2.md) of this project, but I thought it would also help the users in navigating through my narrative. The preview link for the storyboard can be found on this [link](https://preview.shorthand.com/i2LOY168IkxSJAyQ), which also included the visualizations made using [Flourish](https://flourish.studio/).
 
 ## User Research
-The target audience for my story is individuals who are in favor of making sustainable, socially responsible choices but may not entirely be aware of the repercussions of fast fashion. While most individuals have long recognized climate change and child labor as global issues, fast fashion is a topic which has come under scrutiny only recently. The objective of this website is to make the audience aware that there are many hidden costs to fast fashion than just the price they pay for apparel. Since this is a global trend, I would want people in my user research to have varying demographics e.g. age, education, country of origin, to capture how receptivity to this narrative varies across fashion consumers from different walks of life.
+The target audience for my story is individuals who are in favor of making sustainable, socially responsible choices but may not entirely be aware of the repercussions of fast fashion. While most individuals have long recognized climate change and child labor as global issues, fast fashion is a topic which has come under scrutiny only recently. The objective of this website is to make the audience aware that there are many hidden costs to fast fashion than just the price they pay for apparel. Since this is a global trend, I would want people in my user research to have varying demographics e.g. age, education, country of origin, to capture how receptivity and appeal to this narrative varies across fashion consumers from different walks of life.
 
-
-
-a. the target audience you hope to reach with your story; 
-b. your approach to identifying representative individuals to interview; 
-c. your interview script;
+The user research protocol that I have used here has been adapted from the one used in class. It has been split into three sections: _what I wish to test_ identifies my intention to capture a specific evaluation metric, _what I expect to achieve_ highlights the purpose of gauging this metric, and _what I will ask_ includes my interview script that could help me achieve the overall objective of this research.
 
    What I wish to test   |                What I expect to achieve                 |                What I will ask                
   ------------ | ------------- | -------------
