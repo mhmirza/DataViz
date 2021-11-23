@@ -1,19 +1,10 @@
-<div class="flourish-embed flourish-chart" data-src="visualisation/7896015"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+# Part 2: Final Project
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/7896488"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+## Storyboard
+For my storyboard, I decided to use [Shorthand](https://shorthand.com/) since I felt its functionality would allow me to represent the story in the form that is closest to the final. Not only did it allow me to piece the story together using my outline from [Part 1](/finalproject2.md) of this project, but I thought it would also help the users in navigating through my narrative. The preview link for the storyboard can be found on this [link](https://preview.shorthand.com/i2LOY168IkxSJAyQ).
 
-<div class="flourish-embed" data-src="visualisation/7896649"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+## User Research
 
-<div class="flourish-embed flourish-slope" data-src="visualisation/7896828"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+## Moodboard
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/7896985"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/7897138"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/7897251"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/7897465"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-<div class="flourish-embed flourish-election" data-src="visualisation/7897375"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/7898063"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+## Personas
