@@ -4,6 +4,13 @@
 For my storyboard, I decided to use [Shorthand](https://shorthand.com/) since I felt its functionality would allow me to represent the story in the form that is closest to the final. Not only did it allow me to piece the story together using my outline from [Part 1](/finalproject2.md) of this project, but I thought it would also help the users in navigating through my narrative. The preview link for the storyboard can be found on this [link](https://preview.shorthand.com/i2LOY168IkxSJAyQ), which also included the visualizations made using [Flourish](https://flourish.studio/).
 
 ## User Research
+The target audience for my story are individuals who are in favor of making sustainable, socially responsible choices but may not entirely be aware of the repercussions of fast fashion. The objective of this website is to make the audience aware that there are many hidden costs to fast fashion than just the price they pay for apparel. Since this is a global trend, I would want people in my user research to have varying demographics e.g. age, education, country of origin, to capture how cultural perceptions could affect their receptivity to this narrative.
+
+essentially an  who are may or may not be aware of the repercussions of fast fashion.  
+
+a. the target audience you hope to reach with your story; 
+b. your approach to identifying representative individuals to interview; 
+c. your interview script;
 
    What I wish to test   |                What I expect to achieve                 |                What I will ask                
   ------------ | ------------- | -------------
