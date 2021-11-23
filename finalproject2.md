@@ -21,11 +21,11 @@ Intention | To check if the overall story is compelling and would drive the user
 Improvement | To seek user advice on specific elements which need to be changed | If you were to present this story, which elements would you change to make it more coherent and persuasive? Please include any comments about the overall design of the presentation.
 
 ### Interview Findings
-Question|                Response 1                 |                Response 2                 |                Response 3                                 
------------- | ------------- | -------------
-**i)** At first glance, what do you think is the key idea of the presentation? | 
-**ii)** Were you already aware of any information that has already been presented here? |
-**iii)** Any elements of this story which came as a surprise to you but have been understated in the narrative? |
+   Question   |                Person 1                 |                Person 2                |                Person 3                               
+  ------------ | ------------- | -------------
+**i)** At first glance, what do you think is the key idea of the presentation? | | |
+**ii)** Were you already aware of any information that has already been presented here? | | |
+**iii)** Any elements of this story which came as a surprise to you but have been understated in the narrative? | | |
 
 
 ### Changes Based on User Feedback
