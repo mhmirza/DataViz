@@ -22,7 +22,7 @@ Improvement | To seek user advice on specific elements which need to be changed 
 
 ### Interview Findings
 
-### Changes Based on User Feedback:
+### Changes Based on User Feedback
 Based on user research, these are the changes that I would consider for my final project.
 
 ## Moodboard
