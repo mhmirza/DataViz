@@ -6,7 +6,11 @@ For my storyboard, I decided to use [Shorthand](https://shorthand.com/) since I 
 ## User Research
 
 ### Target Audience 
-The target audience for my story is individuals who are in favor of making sustainable, socially responsible choices but may not entirely be aware of the repercussions of fast fashion. While most individuals have long recognized climate change and child labor as global issues, fast fashion is a topic which has come under scrutiny only recently. The objective of this website is to make the audience aware that there are many hidden costs to fast fashion than just the price they pay for apparel. Since this is a global trend, I would want people in my user research to have varying demographics e.g. age, education, country of origin, to capture how receptivity and appeal to this narrative varies across fashion consumers from different walks of life.
+The target audience for my story is individuals who are in favor of making sustainable, socially responsible choices but may not entirely be aware of the repercussions of fast fashion. While most individuals have long recognized climate change and child labor as global issues, fast fashion is a topic which has come under scrutiny only recently. The objective of this website is to make the audience aware that there are many hidden costs to fast fashion than just the price they pay for apparel. Since this is a global trend, I would want people in my user research to have varying demographics e.g. age, education, country of origin, to capture how receptivity and appeal to this narrative varies across fashion consumers from different walks of life. These are the profiles of individuals included in the interview: 
+
+* a male, undergraduate student, aged 19, from Pakistan
+* a female, graduate student, aged 29, from China
+* a female, graduate student, aged 35 from Italy
 
 ### User Research Protocol
 
@@ -21,11 +25,6 @@ Intention | To check if the overall story is compelling and would drive the user
 Improvement | To seek user advice on specific elements which need to be changed | If you were to present this story, which elements would you change to make it more coherent and persuasive? Please include any comments about the overall design of the presentation.
 
 ### Interview Findings
-
-These are the profiles of individuals included in the interview: 
-* a male, undergraduate student, aged 19, from Pakistan
-* a female, graduate student, aged 29, from China
-* a female, graduate student, aged 35 from Italy
 
 Question | Person 1 | Person 2 | Person 3                
 ------------ | ------------- | ------------- | -------------
