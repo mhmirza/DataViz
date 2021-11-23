@@ -8,7 +8,7 @@ The target audience for my story is individuals who are in favor of making susta
 
 The user research protocol that I have used here has been adapted from the one used in class. It has been split into three sections: _what I wish to test_ identifies my intention to capture a specific evaluation metric, _what I expect to achieve_ highlights the purpose of gauging this metric, and _what I will ask_ includes my interview script that could help me achieve the overall objective of this research.
 
-     What I wish to test     |                What I expect to achieve                 |                What I will ask                
+   What I wish to test   |                What I expect to achieve                 |                What I will ask                
   ------------ | ------------- | -------------
 Relevance | To check if the content being presented is relevant to the type of audience and to the topic under discussion | **i)** At first glance, what do you think is the key idea of the presentation? **ii)** Were you already aware of any information that has already been presented here? **iii)** Any elements of this story which came as a surprise to you but have been understated in the narrative?
 Emotional appeal | To check if the narrative invoked any positive or negative reactions from the audience | **i)** To what extend do you agree or disagree with the arguments presented here against fast fashion? **ii)** How did you feel as you moved through the different sections of this presentation?
