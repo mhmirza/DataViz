@@ -22,7 +22,10 @@ Improvement | To seek user advice on specific elements which need to be changed 
 
 ### Interview Findings
 
-These are the profiles of individuals included in the interview: a male, undergraduate student, aged 19, from Pakistan; a female, graduate student, aged 29, from China; and a female, graduate student, aged 35 from Italy.
+These are the profiles of individuals included in the interview: 
+* a male, undergraduate student, aged 19, from Pakistan
+* a female, graduate student, aged 29, from China
+* a female, graduate student, aged 35 from Italy
 
 Question | Person 1 | Person 2 | Person 3                
 ------------ | ------------- | ------------- | -------------
