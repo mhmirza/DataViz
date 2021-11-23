@@ -14,7 +14,7 @@ The target audience for my story is individuals who are in favor of making susta
 
 ### User Research Protocol
 
-The user research protocol that I have used here has been adapted from the one used in class. It has been split into three sections: _what I wish to test_ identifies my intention to capture a specific evaluation metric, _what I expect to achieve_ highlights the purpose of gauging this metric, and _what I will ask_ includes my interview script that could help me achieve the overall objective of this research.
+The user research protocol that I have used here has been adapted from the one used in class. It has been split into three sections: _what I wish to test_ identifies my intention to capture a specific evaluation metric, _what I expect to achieve_ highlights the purpose of gauging this metric, and _what I will ask_ includes my interview script that could help me understand the audience's perspective regarding the flow of the story, clarity of textual and graphical content and the strength of the narrative.
 
    What I wish to test   |                What I expect to achieve                 |                What I will ask                
   ------------ | ------------- | -------------
@@ -40,7 +40,9 @@ Would the narrative make you revisit your apparel purchase choices in the future
 Which elements would you change to make it more coherent and persuasive? Please include any comments about the overall design of the presentation. | XYZ | XYZ | XYZ
 
 ### Changes Based on User Feedback
-Based on user research, these are the changes that I would consider for my final project.
+Based on user research, these are the changes that I would consider for my final project:
+
+1. Review the use of images: Users felt that the use of relevant images for each section helped    
 
 ## Moodboard
 
