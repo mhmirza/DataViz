@@ -24,16 +24,16 @@ Improvement | To seek user advice on specific elements which need to be changed 
 
 Question | Person 1 | Person 2 | Person 3                
 ------------ | ------------- | ------------- | -------------
-1. At first glance, what do you think is the key idea of the presentation? | XYZ | XYZ | XYZ
-2. Were you already aware of any information that has already been presented here? | XYZ | XYZ | XYZ
-3. Any elements of this story which came as a surprise to you but have been understated in the narrative? | XYZ | XYZ | XYZ
-4. To what extend do you agree or disagree with the arguments presented here against fast fashion? | XYZ | XYZ | XYZ 
-5. How did you feel as you moved through the different sections of this presentation? | XYZ | XYZ | XYZ
-6. Do you think there is any redundant or missing textual information, which disturbs the flow of the story? | XYZ | XYZ | XYZ 
-7. Is there any graphical information which is unclear, misrepresentative or unfit in this narrative? | XYZ | XYZ | XYZ
-8. How effective would you say is the overall story in conveying the demerits of fast fashion? | XYZ | XYZ | XYZ 
-9. Would the narrative make you revisit your apparel purchase choices in the future? | XYZ | XYZ | XYZ
-10. Which elements would you change to make it more coherent and persuasive? Please include any comments about the overall design of the presentation. | XYZ | XYZ | XYZ
+At first glance, what do you think is the key idea of the presentation? | XYZ | XYZ | XYZ
+Were you already aware of any information that has already been presented here? | XYZ | XYZ | XYZ
+Any elements of this story which came as a surprise to you but have been understated in the narrative? | XYZ | XYZ | XYZ
+To what extend do you agree or disagree with the arguments presented here against fast fashion? | XYZ | XYZ | XYZ 
+How did you feel as you moved through the different sections of this presentation? | XYZ | XYZ | XYZ
+Do you think there is any redundant or missing textual information, which disturbs the flow of the story? | XYZ | XYZ | XYZ 
+Is there any graphical information which is unclear, misrepresentative or unfit in this narrative? | XYZ | XYZ | XYZ
+How effective would you say is the overall story in conveying the demerits of fast fashion? | XYZ | XYZ | XYZ 
+Would the narrative make you revisit your apparel purchase choices in the future? | XYZ | XYZ | XYZ
+Which elements would you change to make it more coherent and persuasive? Please include any comments about the overall design of the presentation. | XYZ | XYZ | XYZ
 
 ### Changes Based on User Feedback
 Based on user research, these are the changes that I would consider for my final project.
