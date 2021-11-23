@@ -11,7 +11,7 @@ Relevance | To check if the content being presented is relevant to the type of a
 Emotional appeal | To check if the narrative invoked any positive or negative reactions from the audience | **i)** To what extend do you agree or disagree with the arguments presented here against fast fashion? **ii)** How did you feel as you moved through the different sections of this presentation?
 Comprehension | To check if the textual and graphical content is reasonably comprehensible and flows coherently for the audience | **i)** Do you think there is any redundant or missing textual information, which disturbs the flow of the story? **ii)** Is there any graphical information which is unclear, misrepresentative or unfit in this narrative? 
 Intention | To check if the overall story is compelling and would drive the users to adopt the call to action | **i)** How effective would you say is the overall story in conveying the demerits of fast fashion? **ii)** Would the narrative make you revisit your apparel purchase choices in the future?
-Improvement | To seek user advice on specific elements which need to be changed | If you were to present this story, which elements would you change to make it more coherent and persuasive?
+Improvement | To seek user advice on specific elements which need to be changed | If you were to present this story, which elements would you change to make it more coherent and persuasive? Please include any comments about the overall design of the presentation.
 
 ## Moodboard
 
