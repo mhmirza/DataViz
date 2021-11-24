@@ -52,8 +52,8 @@ Based on user research, I have categorized the suggestions under three umbrella 
 * Replace the visualization, _"Are we spending less on clothes"_, with a line chart or change the scale of the existing chart so that the falling trend is more prominent. 
 * Cut down the pop up information for the tree map on _"Estimated Value of Child Labor for EU Imports"_ to only show the sub-category's name and corresponding value. 
 * Choose more appropriate colours for the visualizations that are aligned with the overall theme of the presentation. 
-* Imporve the format and placement of the Tableau heat map since it seems to be unclear and interrupts the final call to action as suggested by interviewee 3.
+* Improve the format and placement of the Tableau heat map since it seems to be unclear and interrupts the final call to action as suggested by interviewee 3.
 
 **3. Texts:** 
-* To ensure that the users process the key statistics, as suggested by interviewee 2, highlight key statistics in the section for _"Why should we be concerned?"_ and _"Who should we blame?"_ by using [Canva](https://www.canva.com/tools/logo-maker-q1/irgwc=1&utm_medium=affiliate&utm_source=MaxBounty.com%20ULC&clickId=QHoSZ1wbDxyIWExTom1RhQC8UkG2Syx1yzfcRw0) or [Infogram](https://infogram.com/) to make it more conspicuous. 
+* To ensure that the users process the key statistics, as suggested by interviewee 2, highlight key statistics in the section for _"Why should we be concerned?"_ and _"Who should we blame?"_ by using [Canva](https://www.canva.com/tools/logo-maker-q1/irgwc=1&utm_medium=affiliate&utm_source=MaxBounty.com%20ULC&clickId=QHoSZ1wbDxyIWExTom1RhQC8UkG2Syx1yzfcRw0) or [Infogram](https://infogram.com/) to make it more prominent.
 * The section _"Who should we blame?"_ could highlight additional information regarding the use of child labor, specifically in the fast fashion industry. Given the data is accessible online, incorporate additional statistics regarding this impact as suggested by User 3.  
