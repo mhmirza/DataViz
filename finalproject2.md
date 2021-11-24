@@ -42,7 +42,7 @@ Which elements would you change to make it more coherent and persuasive? Please 
 ### Changes Based on User Feedback
 Based on user research, these are the changes that I would consider for my final project:
 
-1. Review the use of images: Users felt that the use of relevant images for each section helped    
+**1. Include inclusive imagery:** Users felt that the use of images corresponding to the title of each section helped convey a strong message. However, the choice of images gave a sense that fast fashion has propagated in recent years due to the purchase decisions made by women. To rectify this, I have decided to include/ replace a few images which include gender neutral content and categorically mention in the description for survey visualization that the sample included individuals with varying demographics.
 
 ## Moodboard
 
