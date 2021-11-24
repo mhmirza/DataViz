@@ -42,11 +42,21 @@ No. | Question | Person 1 | Person 2 | Person 3
 ### Changes Based on User Feedback
 Based on user research, I have categorized the suggestions under three umbrella elements:
 
-**1. Images:** Users felt that the use of images corresponding to the title of each section helped convey a strong message. However, the choice of images gave a sense that fast fashion has propagated in recent years due to the purchase decisions made by women. To rectify this, I have decided to include/ replace a few images which include gender neutral content and categorically mention in the description for survey visualization that the sample included individuals with varying demographics. For sections with graphs, use images which are less busy or decrease the transparency of the existing images to improve visibility and comprehension of the visualizations. 
+**1. Images:** 
+* Users felt that the use of images corresponding to the title of each section helped convey a strong message. However, the choice of images gave a sense that fast fashion has propagated in recent years due to the purchase decisions made by women. To rectify this, I have decided to include/ replace a few images which include gender neutral content and categorically mention in the description for survey visualization that the sample included individuals with varying demographics. 
+* For the sections with graphs, I intend to use images which are less busy or decrease the transparency of the existing images to improve visibility and comprehension of the visualizations. 
 
-**2. Graphs:** Use a single color in the visualization for "How Fast is the Fashion Market Expected to Grow." In the chart, _"Brands are racing to keep the "newness" factor in fashion alive"_, only highlight the inventories for Apparel stores and move the rest to the background by using gray. For the visualization, _"Are we spending less on clothes"_, replace it with a line chart or change the scale of the existing chart so that the falling trend is more prominent. Cut down the pop up information for the tree map on _"Estimated Value of Child Labor for EU Imports"_ to only show the sub-category name and value. Choose more appropriate colours for the visualizations that are aligned with the overall theme of the presentation. I intend to imporve the format and placement of the Tableau heat map since it seems to be unclear and interrupts the final call to action as suggested by interviewee 3.
+**2. Graphs:** 
+* I will use a single color in the visualization for "How Fast is the Fashion Market Expected to Grow." 
+* In the chart, _"Brands are racing to keep the "newness" factor in fashion alive"_, only highlight the inventories for Apparel stores and move the rest to the background by using gray. 
+* For the visualization, _"Are we spending less on clothes"_, replace it with a line chart or change the scale of the existing chart so that the falling trend is more prominent. 
+* I intend to cut down the pop up information for the tree map on _"Estimated Value of Child Labor for EU Imports"_ to only show the sub-category name and value. 
+* I will try to choose more appropriate colours for the visualizations that are aligned with the overall theme of the presentation. 
+* I intend to imporve the format and placement of the Tableau heat map since it seems to be unclear and interrupts the final call to action as suggested by interviewee 3.
 
-**3. Texts:** Moreover, to ensure users process the key statistics, I would follow another suggestion provided by interviewee 2 to highlight using infographics key statistics in the section for _"Why should we be concerned?"_ and _"Who should we blame?"_. 
+**3. Texts:** 
+* To ensure that the users process the key statistics, I would follow another suggestion provided by interviewee 2 to highlight key statistics in the section for _"Why should we be concerned?"_ and _"Who should we blame?"_. I could consider the use of [Canva](https://www.canva.com/tools/logo-maker-q1/ irgwc=1&utm_medium=affiliate&utm_source=MaxBounty.com%20ULC&clickId=QHoSZ1wbDxyIWExTom1RhQC8UkG2Syx1yzfcRw0) or [Infogram](https://infogram.com/) to make it more conspicuous. 
+* The section _"Who should we blame?"_ could highlight additional information regarding the use of child labor, specifically in the fast fashion industry. If I am able to find the data, I would include additional statistics regarding this impact as suggested by User 3.  
 
 ## Moodboard
 
