@@ -1,7 +1,7 @@
 # Part 2: Final Project
 
 ## Storyboard
-For my storyboard, I decided to use [Shorthand](https://shorthand.com/) since I felt its functionality would allow me to effectively piece the story together using my outline from [Part 1](/finalproject2.md) of this project and also help the users in navigating through my narrative. The preview link for the storyboard can be found [here](https://preview.shorthand.com/i2LOY168IkxSJAyQ), which also included the visualizations made using [Flourish](https://flourish.studio/) and [Tableau](https://www.tableau.com/).
+For my storyboard, I decided to use [Shorthand](https://shorthand.com/) since I felt its functionality would allow me to effectively piece the story together using my outline from [Part 1](/finalproject2.md) of this project and also help the users in navigating through my narrative. The preview link for the storyboard can be found [here](https://preview.shorthand.com/i2LOY168IkxSJAyQ), which also includes the visualizations made using [Flourish](https://flourish.studio/) and [Tableau](https://www.tableau.com/).
 
 ## User Research
 
