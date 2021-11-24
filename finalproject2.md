@@ -42,7 +42,8 @@ Which elements would you change to make it more coherent and persuasive? Please 
 ### Changes Based on User Feedback
 Based on user research, these are the changes that I would consider for my final project:
 
-**1. Include inclusive imagery:** Users felt that the use of images corresponding to the title of each section helped convey a strong message. However, the choice of images gave a sense that fast fashion has propagated in recent years due to the purchase decisions made by women. To rectify this, I have decided to include/ replace a few images which include gender neutral content and categorically mention in the description for survey visualization that the sample included individuals with varying demographics.
+**1. Incorporate inclusive imagery:** Users felt that the use of images corresponding to the title of each section helped convey a strong message. However, the choice of images gave a sense that fast fashion has propagated in recent years due to the purchase decisions made by women. To rectify this, I have decided to include/ replace a few images which include gender neutral content and categorically mention in the description for survey visualization that the sample included individuals with varying demographics.
+**2. Refining data visualizations:** Use a single color in the visualization for "How Far is the Fashion Market Expected to Grow." In the chart, _"Brands are racing to keep the "newness" factor in fashion alive"_, only highlight the inventories for Apparel stores and move the rest to the background by using gray. For sections with graphs, use images which are less busy or decrease the transparency of the existing images to improve visibility and comprehension of the visualizations.
 
 ## Moodboard
 
