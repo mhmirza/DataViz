@@ -43,7 +43,10 @@ Which elements would you change to make it more coherent and persuasive? Please 
 Based on user research, these are the changes that I would consider for my final project:
 
 **1. Incorporate inclusive imagery:** Users felt that the use of images corresponding to the title of each section helped convey a strong message. However, the choice of images gave a sense that fast fashion has propagated in recent years due to the purchase decisions made by women. To rectify this, I have decided to include/ replace a few images which include gender neutral content and categorically mention in the description for survey visualization that the sample included individuals with varying demographics.
-**2. Refining data visualizations:** Use a single color in the visualization for "How Far is the Fashion Market Expected to Grow." In the chart, _"Brands are racing to keep the "newness" factor in fashion alive"_, only highlight the inventories for Apparel stores and move the rest to the background by using gray. For sections with graphs, use images which are less busy or decrease the transparency of the existing images to improve visibility and comprehension of the visualizations.
+
+**2. Refining data visualizations:** Use a single color in the visualization for "How Far is the Fashion Market Expected to Grow." In the chart, _"Brands are racing to keep the "newness" factor in fashion alive"_, only highlight the inventories for Apparel stores and move the rest to the background by using gray. For sections with graphs, use images which are less busy or decrease the transparency of the existing images to improve visibility and comprehension of the visualizations. For the visualization, _"Are we spending less on clothes"_, replace it with a line chart or change the scale of the existing chart so that the falling trend is more prominent. Cut down the pop up information for the tree map on _"Estimated Value of Child Labor for EU Imports"_ to only show the sub-category name and value.
+
+**3. Section Arrangement:** 
 
 ## Moodboard
 
