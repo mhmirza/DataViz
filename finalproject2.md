@@ -55,5 +55,5 @@ Based on user research, I have categorized the suggestions under three umbrella 
 * Improve the format and placement of the Tableau heat map since it seems to be unclear and interrupts the final call to action as suggested by interviewee 3.
 
 **3. Texts:** 
-* To ensure that the users process the key statistics, as suggested by interviewee 2, highlight key statistics in the section for _"Why should we be concerned?"_ and _"Who should we blame?"_ by using [Canva](https://www.canva.com/tools/logo-maker-q1/irgwc=1&utm_medium=affiliate&utm_source=MaxBounty.com%20ULC&clickId=QHoSZ1wbDxyIWExTom1RhQC8UkG2Syx1yzfcRw0) or [Infogram](https://infogram.com/) to make it more prominent.
+* To ensure that the users process the key statistics, as suggested by interviewee 2, highlight key statistics in the section for _"Why should we be concerned?"_ and _"Who should we blame?"_ by using [Canva](https://www.canva.com/) or [Infogram](https://infogram.com/) to make it more prominent.
 * The section _"Who should we blame?"_ could highlight additional information regarding the use of child labor, specifically in the fast fashion industry. Given the data is accessible online, incorporate additional statistics regarding this impact as suggested by User 3.  
