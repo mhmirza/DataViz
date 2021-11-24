@@ -9,7 +9,7 @@ Hi, I am Manzoor! I am 27 years old, but I might look much older to you if we ev
 # What I hope to learn?
 From the course, Telling Stories with Data, I wish to learn how to utilize different visualization techniques to present data. By the end of the course, I want to be able to decompose the elements that help make a good graphic. I also want to gain exposure to digital tools available online, that could build visualizations and improve their look and feel.  
 
-# Online Portfolio
+# Portfolio
 Here are the assignments and projects that I have completed during the course of this class.
 
 ## Data Visualization Critiques
