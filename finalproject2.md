@@ -43,7 +43,7 @@ No. | Question | Person 1 | Person 2 | Person 3
 Based on user research, I have categorized the suggestions under three umbrella elements:
 
 **1. Images:** 
-* Users felt that the use of images corresponding to the title of each section helped convey a strong message. However, the choice of images gave a sense that fast fashion has propagated in recent years due to the purchase decisions made by women. To rectify this, I have decided to add/ replace a few images which include gender neutral content and categorically mention in the description for survey visualization that the sample included individuals with varying demographics. 
+* Users felt that the use of images corresponding to the title of each section helped convey a strong message. However, the choice of images gave a sense that fast fashion has propagated in recent years due to the purchase decisions made by women. To rectify this, I have decided to add/ replace a few images which include gender neutral content and categorically mention in the description for the survey visualization that the encompassed included individuals with varying demographics. 
 * For the sections with graphs, I intend to use images which are less busy or decrease the transparency of the existing images to improve visibility and comprehension of the visualizations. 
 
 **2. Graphs:** 
