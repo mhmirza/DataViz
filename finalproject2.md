@@ -47,9 +47,9 @@ Based on user research, I have categorized the suggestions under three umbrella 
 * For the sections with graphs, I intend to use images which are less busy or decrease the transparency of the existing images to improve visibility and comprehension of the visualizations. 
 
 **2. Graphs:** 
-* I will use a single color in the visualization for "How Fast is the Fashion Market Expected to Grow." since the use of multiple color inadvertently suggests the presence of another dimension in the data.
-* In the chart, _"Brands are racing to keep the "newness" factor in fashion alive"_, only highlight the inventories for Apparel stores and move the rest to the background by using gray. 
-* For the visualization, _"Are we spending less on clothes"_, replace it with a line chart or change the scale of the existing chart so that the falling trend is more prominent. 
+* I will use a single color in the visualization for _"How Fast is the Fashion Market Expected to Grow."_ since the use of multiple colors inadvertently suggests the presence of another dimension in the data.
+* In the chart, _"Brands are racing to keep the "newness" factor in fashion alive"_, I intend to only highlight the inventories for apparel stores and move the rest to the background using gray. 
+* I intend to replace the visualization, _"Are we spending less on clothes"_it with a line chart or change the scale of the existing chart so that the falling trend is more prominent. 
 * I intend to cut down the pop up information for the tree map on _"Estimated Value of Child Labor for EU Imports"_ to only show the sub-category name and value. 
 * I will try to choose more appropriate colours for the visualizations that are aligned with the overall theme of the presentation. 
 * I intend to imporve the format and placement of the Tableau heat map since it seems to be unclear and interrupts the final call to action as suggested by interviewee 3.
