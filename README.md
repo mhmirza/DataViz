@@ -29,3 +29,5 @@ Here are the assignments and projects that I have completed during the course of
 [Part 1](/finalproject1.md) 
 
 [Part 2](/finalproject2.md) 
+
+[Part 3](/finalproject3.md) 
