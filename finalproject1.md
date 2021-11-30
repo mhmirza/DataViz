@@ -1,4 +1,4 @@
-[Back to Portfolio Home ](/porfolio.md)
+[Back to Home](/README.md)
 
 [Move to Part 2](/finalproject2.md)
 
