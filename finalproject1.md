@@ -6,7 +6,10 @@
 This project focuses on the repercussions of the increasing popularity of fast fashion across the globe. The setup of this project highlights how fast fashion has grown in recent years, owing to more frequent and possibly cheaper availability of apparel. Following this preamble, it would establish a conflict by navigating the audience through specific social and environmental issues associated with the adoption of this trend. Finally, it would suggest a possible resolution to the identified problem by introducing sustainable fashion trends and corrective action required on part of the consumers.
 
 # Table of Contents:
-[Project Outline and Sketches](##Project Outline With Sketches)
+1. [Project Outline and Sketches](## Project Outline With Sketches)
+2. [Data Sources] (## The Data)
+3. [Method and Medium](## Method and Medium)
+
 
 ## Project Outline With Sketches
 
@@ -21,7 +24,6 @@ This section intends to convey the scale at which the fast fashion industry is g
 ![WhatsApp Image 2021-11-15 at 4 59 05 PM](https://user-images.githubusercontent.com/93225948/141860367-aa144c8c-b9a1-44ae-9ea9-1139889e7530.jpeg)
 
 ![WhatsApp Image 2021-11-15 at 4 59 06 PM](https://user-images.githubusercontent.com/93225948/141860353-9f99d02f-5a89-4237-82b0-a3d320d3f910.jpeg)
-
 
 ### 3. Why should we be concerned about fast fashion?
 Brands are dumping more than half of what they are producing. To establish credibility of this claim, I would present an area stacked graph showing the percentage of textiles generated which end up in landfills, questioning the viability of the fast fasion trend. Moreover, PP & A (polyester, polyamide, and acrylic) and fibres, which are the primary raw materials for clothing, are the third biggest contributor to the global plastic production. This explains why synthetic textiles occupy the greatest segment of the pie for global releases of primary microplastics to the world oceans. A table reflecting the carbon footprint of leading European apparel retailers would be shown here to help the audience understand the environmentally irresponsible attitude of popular brands. Finally, I would discuss the role of child labour involved with cotton imports into the European Union, which are mainly used in apparel manufacturing. This could be represented using a map to highlight the negligence of governments in holding apparel brands accountable.
