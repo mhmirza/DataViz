@@ -4,18 +4,22 @@
 
 # Final Project: Part 3
 
-## Summary:
+## Summary
 
-## Part 1:
+## Part 1
 
-## Part 2:
+## Part 2
 
-## Part 3:
+## Part 3
 
 ### Latest Changes
+
 ### Final Deliverable
+
 ### Intended Audience
+
 ### Design Decisions
+
 ### Reference Materials
 * Data Sources
 * Images
