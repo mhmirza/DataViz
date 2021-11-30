@@ -1,5 +1,3 @@
-[Back to Home](/README.md)
-
 [Move to Part 2](/finalproject2.md)
 
 [Skip to Part 3](/finalproject3.md)
