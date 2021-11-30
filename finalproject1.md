@@ -1,5 +1,7 @@
-[Back to Portfolio Home Page](/porfolio.md)
+[Back to Portfolio Home ](/porfolio.md)
+
 [Move to Part 2](/finalproject1.md)
+
 [Skip to Part 23](/finalproject3.md)
 
 # Part 1: Final Project
