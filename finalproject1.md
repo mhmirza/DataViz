@@ -6,7 +6,7 @@
 This project focuses on the repercussions of the increasing popularity of fast fashion across the globe. The setup of this project highlights how fast fashion has grown in recent years, owing to more frequent and possibly cheaper availability of apparel. Following this preamble, it would establish a conflict by navigating the audience through specific social and environmental issues associated with the adoption of this trend. Finally, it would suggest a possible resolution to the identified problem by introducing sustainable fashion trends and corrective action required on part of the consumers.
 
 # Table of Contents:
-[Project Outline and Sketches](## Project Outline With Sketches)
+[Project Outline and Sketches](##Project Outline With Sketches)
 
 ## Project Outline With Sketches
 
