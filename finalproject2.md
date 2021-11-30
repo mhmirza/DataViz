@@ -1,3 +1,7 @@
+[Move to Part 3](/finalproject3.md)
+
+[Back to Part 1](/finalproject1.md)
+
 # Part 2: Final Project
 
 ## Storyboard
