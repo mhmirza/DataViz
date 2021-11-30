@@ -12,9 +12,10 @@
 
 ## Part 3:
 
-### Changes Since Part 2
+### Latest Changes
+### Final Deliverable
 ### Intended Audience
-### Story Design
+### Design Decisions
 ### Reference Materials
 * Data Sources
 * Images
