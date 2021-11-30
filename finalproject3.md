@@ -12,6 +12,7 @@
 
 ## Part 3:
 
+### Changes Since Part 2
 ### Intended Audience
 ### Story Design
 ### Reference Materials
