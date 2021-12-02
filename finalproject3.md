@@ -37,6 +37,8 @@ The user research from part 3 not only helped me gain a crucial perspective to m
 
 ### Intended Audience
 
+https://www.vox.com/the-goods/2021/7/19/22535050/gen-z-relationship-fast-fashion
+
 ### Reference Materials
 * Data Sources
 * Images
