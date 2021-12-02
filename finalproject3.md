@@ -29,15 +29,16 @@ After identifying the audience that I hoped to reach through my story, I selecte
 The user research from part 3 not only helped me gain a crucial perspective to my story. This was instrumental in not only identifying the changes required to remove any ambiguity in the presentation of information, but it also enabled me to revisit important design decisions. 
 
 * In terms of the use of images, I replaced an image of women's shoes in my original storyboard with that of a man browsing through a store, hoping to alleviate concerns about gender bias in my story. Moreover, to improve the visibility of graphical and textual information and minimze distraction for readers, I increased the darkness of the image overlay and transparency of the images, wherever possible. Finally, I added a subdued image in the background instead of using a dark shade to end the story on a lighter note. 
-* In terms of the visualizations, in the graphic for "Are we spending less on clothes", I replaced the bar chart with a line chart to clearly highlight the declining trend. In addition, I restricted the use of color in the visualization for "How is The Fast Fashion Market Expected to Grow?" and flipped the timeline for the axis to observe convention. Similarly, 
+* In terms of the visualizations, in the graphic for "Are we spending less on clothes", I replaced the vertical bar chart with a line chart to clearly highlight the declining trend. In addition, I restricted the use of color in the pictogram for "How is The Fast Fashion Market Expected to Grow?" and flipped the timeline for the axis to observe convention. Similarly, for the slope chart on "Brands Are Racing to Keep the "Newness" Factor in Fashion Alive", I switched from using different colors for each slope to only highlighting the slope for Apparel Stores, while moving the rest to the background. Moreover, for the donut chart on "Fashion Research: Survey Results", to reflect the range of responses, I used complementary 
 
-Restricted Color
-Pop Up Info
+Restricted Color 
+Pop Up Info 
 Sub titles
+Child labor titles
+aligned color theme (espcially shades of red and gray, making sure color is not reused) [Adobe Color](https://color.adobe.com/create/color-wheel)
 
-
-Description of charts
-
+Text description of charts
+Fade effects
 
 ### Final Deliverable
 
