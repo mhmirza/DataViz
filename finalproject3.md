@@ -24,13 +24,24 @@ After identifying the audience that I hoped to reach through my story, I selecte
 
 ## Part 3
 
-### Latest Changes
+### Design Decisions
+
+The user research from part 3 not only helped me gain a crucial perspective to my story. This was instrumental in not only identifying the changes required to remove any ambiguity in the presentation of information, but it also enabled me to revisit important design decisions. 
+
+* In terms of the use of images, I replaced an image of women's shoes in my original storyboard with that of a man browsing through a store, hoping to alleviate concerns about gender bias in my story. Moreover, to improve the visibility of graphical and textual information and minimze distraction for readers, I increased the darkness of the image overlay and transparency of the images, wherever possible. Finally, I added a subdued image in the background instead of using a dark shade to end the story on a lighter note. 
+* In terms of the visualizations, in the graphic for "Are we spending less on clothes", I replaced the bar chart with a line chart to clearly highlight the declining trend. In addition, I restricted the use of color in the visualization for "How is The Fast Fashion Market Expected to Grow?" and flipped the timeline for the axis to observe convention. Similarly, 
+
+Restricted Color
+Pop Up Info
+Sub titles
+
+
+Description of charts
+
 
 ### Final Deliverable
 
 ### Intended Audience
-
-### Design Decisions
 
 ### Reference Materials
 * Data Sources
