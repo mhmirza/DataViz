@@ -20,6 +20,8 @@ With the summary of the project in shape, I sketched data visualizations to serv
 
 In part 2 of the project, I started building the wireframe for my project using [Balsamiq](https://balsamiq.com/). Soon into this process, I realized it would be a better idea to utilize [Shorthand](https://shorthand.com/). Since this was the tool I had decided to use for building my final story, I thought it would facilitate better user research as the storyboard would be closer to the look and feel of my final website.  
 
+The flow of this story was similar to that of my outline in part 1. However, I created data visualizations on [Flourish](/https://flourish.studio/) and [Tableau](https://www.tableau.com/) this time. I wanted to use digital tools for creating visualizations for the storyboard instead of reusing sketches due to the flexibly they offer in editing elements of the graphic in a way that is most suited for communicating effectively. 
+
 ## Part 3
 
 ### Latest Changes
