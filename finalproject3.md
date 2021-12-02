@@ -18,6 +18,8 @@ With the summary of the project in shape, I sketched data visualizations to serv
 
 ## Part 2
 
+In part 2 of the project, I started building the wireframe for my project using [Balsamiq](https://balsamiq.com/). Soon into this process, I realized it would be a better idea to utilize [Shorthand](https://shorthand.com/). Since this was the tool I had decided to use for building my final story, I thought it would facilitate better user research as the storyboard would be closer to the look and feel of my final website.  
+
 ## Part 3
 
 ### Latest Changes
