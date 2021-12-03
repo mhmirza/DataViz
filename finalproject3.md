@@ -55,6 +55,6 @@ I have often heard an argument in favor of textile exports from emerging economi
 1. [U.S. Census Bureau](https://www.census.gov/data/tables/2019/econ/arts/annual-report.html) with a downloaded copy which can be found here []().
 2. [U.S. Bureau of Labor Statistics](https://www.bls.gov/cpi/tables/seasonal-adjustment/home.html) with a downloaded copy which can be found here []().
 3. [Data.world](https://data.world/uscensusbureau/monthly-retail-trade-survey) with a downloaded copy which can be found here []().
-
+4. [Statista](https://www.statista.com/statistics/1008241/fast-fashion-market-value-forecast-worldwide/) with a downloaded copy which can be found here []()
 
 #### Other Citations
