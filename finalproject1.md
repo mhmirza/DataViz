@@ -24,7 +24,7 @@ This section intends to convey the scale at which the fast fashion industry is g
 
 ### 3. Why should we be concerned about fast fashion?
 
-Brands are dumping more than half of what they are producing. To establish credibility of this claim, I would present an area stacked graph showing the percentage of textiles generated which end up in landfills, questioning the viability of the fast fasion trend. Moreover, PP & A (polyester, polyamide, and acrylic) and fibres, which are the primary raw materials for clothing, are the third biggest contributor to the global plastic production. This explains why synthetic textiles occupy the greatest segment of the pie for global releases of primary microplastics to the world oceans. A table reflecting the carbon footprint of leading European apparel retailers would be shown here to help the audience understand the environmentally irresponsible attitude of popular brands. Finally, I would discuss the role of child labour involved with cotton imports into the European Union, which are mainly used in apparel manufacturing. This could be represented using a map to highlight the negligence of governments in holding apparel brands accountable.
+Brands are dumping more than half of what they are producing. To establish credibility of this claim, I would present an area stacked graph showing the percentage of textiles generated which end up in landfills, questioning the viability of the fast fashion trend. Moreover, PP & A (polyester, polyamide, and acrylic) and fibers, which are the primary raw materials for clothing, are the third biggest contributor to the global plastic production. This explains why synthetic textiles occupy the greatest segment of the pie for global releases of primary microplastics to the world oceans. A table reflecting the carbon footprint of leading European apparel retailers would be shown here to help the audience understand the environmentally irresponsible attitude of popular brands. Finally, I would discuss the role of child labor involved with cotton imports into the European Union, which are mainly used in apparel manufacturing. This could be represented using a map to highlight the negligence of governments in holding apparel brands accountable.
 
 ![WhatsApp Image 2021-11-15 at 6 03 36 PM](https://user-images.githubusercontent.com/93225948/141866559-424a828f-27d2-4636-b033-9ea67a2cc31f.jpeg)
 
@@ -32,7 +32,7 @@ Brands are dumping more than half of what they are producing. To establish credi
 
 ### 4. Know before you buy.
 
-One garbage truck of clothes is burned or landfilled every second, enough to fill 1.5 Empire State buildings every day! Before you buy a cotton shirt again out of pleasure, remember that it takes 2,700 litres of water to make one of these, which is enough to sustain one person for 2.5 years. Every pair of Levi's jeans also contributes to: climate change, excessive water consumption, eutrophication, land occupation and abiotic depletion. A closing infographic could serve as food for thought here! 
+One garbage truck of clothes is burned or landfilled every second, enough to fill 1.5 Empire State buildings every day! Before you buy a cotton shirt again out of pleasure, remember that it takes 2,700 liters of water to make one of these, which is enough to sustain one person for 2.5 years. Every pair of Levi's jeans also contributes to: climate change, excessive water consumption, eutrophication, land occupation and abiotic depletion. A closing infographic could serve as food for thought here! 
 
 ### 5. Call to Action.
 
