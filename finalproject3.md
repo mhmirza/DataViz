@@ -59,5 +59,6 @@ I have often heard an argument in favor of textile exports from emerging economi
 5. [Movinga](https://www.consumptionandenvironment.com/home/how-many-clothes-we-own-and-how-many-clothes-we-wear) with a downloaded copy which can be found here []().
 6. [Kaggle](https://www.kaggle.com/thomaskonstantin/fashion-researchpersonal-and-garment-information) with a downloaded copy which can be found here []().
 7. [U.S. Environmental Protection Agency](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/textiles-material-specific-data#TextilesTableandGraph) with a downloaded copy which can be found here []().
+8. [Our World in Data](https://ourworldindata.org/grapher/plastic-production-polymer?tab=table) with a downloaded copy which can be found here []().
 
 #### Other Citations
