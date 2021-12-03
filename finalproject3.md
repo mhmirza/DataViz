@@ -54,6 +54,16 @@ I have often heard an argument in favor of textile exports from emerging economi
 #### Data Sources
 From part 1 of the project, the following data sources were finalized and used for visualizations embedded in the website. A downloaded copy of the datasets below can be found on the Github Repository [here](https://github.com/mhmirza/portfolio/tree/main/Project%20Data%20Files).  
 
-1. [U.S. Census Bureau](https://www.census.gov/data/tables/2019/econ/arts/annual-report.html); 2. [U.S. Bureau of Labor Statistics](https://www.bls.gov/cpi/tables/seasonal-adjustment/home.html); 3. [Statista](https://www.statista.com/statistics/1008241/fast-fashion-market-value-forecast-worldwide/); 4. [Data.world](https://data.world/uscensusbureau/monthly-retail-trade-survey); 5. [Movinga](https://www.consumptionandenvironment.com/home/how-many-clothes-we-own-and-how-many-clothes-we-wear); 6. [Kaggle](https://www.kaggle.com/thomaskonstantin/fashion-researchpersonal-and-garment-information); 7. [U.S. Environmental Protection Agency](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/textiles-material-specific-data#TextilesTableandGraph); 8. [Our World in Data](https://ourworldindata.org/grapher/plastic-production-polymer?tab=table); 9. [International Union for Conservation of Nature](https://portals.iucn.org/library/sites/library/files/documents/2017-002-En.pdf); 10. [TheGreens/EFA](https://www.annacavazzini.eu/wp-content/uploads/GreensEFA-study-on-Europes-Child-Labour-Footprint.pdf); 11. [GreenStory](https://cf-assets-tup.thredup.com/about/pwa/thredUP-Clothing-Lifecycle-Study.pdf)
+* [U.S. Census Bureau](https://www.census.gov/data/tables/2019/econ/arts/annual-report.html)
+* [U.S. Bureau of Labor Statistics](https://www.bls.gov/cpi/tables/seasonal-adjustment/home.html)
+* [Statista](https://www.statista.com/statistics/1008241/fast-fashion-market-value-forecast-worldwide/)
+* [Data.world](https://data.world/uscensusbureau/monthly-retail-trade-survey)
+* [Movinga](https://www.consumptionandenvironment.com/home/how-many-clothes-we-own-and-how-many-clothes-we-wear)
+* [Kaggle](https://www.kaggle.com/thomaskonstantin/fashion-researchpersonal-and-garment-information)
+* [U.S. Environmental Protection Agency](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/textiles-material-specific-data#TextilesTableandGraph)
+* [Our World in Data](https://ourworldindata.org/grapher/plastic-production-polymer?tab=table)
+* [International Union for Conservation of Nature](https://portals.iucn.org/library/sites/library/files/documents/2017-002-En.pdf)
+* [TheGreens/EFA](https://www.annacavazzini.eu/wp-content/uploads/GreensEFA-study-on-Europes-Child-Labour-Footprint.pdf)
+* [GreenStory](https://cf-assets-tup.thredup.com/about/pwa/thredUP-Clothing-Lifecycle-Study.pdf)
 
 #### Other Citations
