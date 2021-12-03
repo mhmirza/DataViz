@@ -34,8 +34,8 @@ Here are the assignments that I have completed during the course of this class.
 
 ## Final Project
 
-[Part 1](/finalproject1.md) 
+[Part 1: High-level Project Plan](/finalproject1.md) 
 
-[Part 2](/finalproject2.md) 
+[Part 2: Storyboard and User Research](/finalproject2.md) 
 
-[Part 3](/finalproject3.md) 
+[Part 3: Final Deliverable and Summary](/finalproject3.md) 
