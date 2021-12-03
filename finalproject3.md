@@ -67,6 +67,6 @@ From part 1 of the project, the following data sources were finalized and used f
 * [GreenStory](https://cf-assets-tup.thredup.com/about/pwa/thredUP-Clothing-Lifecycle-Study.pdf)
 
 #### Images
-
+Images used for the website were obtained from two sources only: [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/). A downloaded copy of the images can be found on the Github Repository [here](https://github.com/mhmirza/portfolio/tree/main/Project%20Images).  
 
 #### Statistics
