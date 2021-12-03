@@ -47,7 +47,7 @@ Based on this preconceived expectation from the audience, I wanted to bring fast
 
 Since we, as humans, do not like to be dictated about the lifestyle choices we make, I tried using the pronoun "we" instead of "you" at various stages in my story. The only intention here was to give an impression that we all, including myself, might have given into the trend of fast fashion. At the same time, I wanted to tone my story for an audience of Gen Z and millenial generations since the literature review for this project suggested a greater adoption of this trend in these population sub-groups. However, this was not a prominent aspect of my presentation, and was only implied on a subtle level through the use of imagery, which was more relatable to this type of audience. 
 
-
+Finally, 
 
 ### Reference Materials
 * Data Sources
