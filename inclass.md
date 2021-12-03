@@ -12,6 +12,7 @@ The graphic below was created using [Tableau](https://www.tableau.com/) based on
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
 Following this, I tried using a scatter plot to represent the same data in a different manner. How would you have preferred to represent this information?
 
 <div class='tableauPlaceholder' id='viz1638568465993' style='position: relative'><noscript><a href='#'><img alt='Trust in news organizations (v2) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSWDTableauIn-ClassTutorial_hyper&#47;Trustinnewsorganizationsv2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TSWDTableauIn-ClassTutorial_hyper&#47;Trustinnewsorganizationsv2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSWDTableauIn-ClassTutorial_hyper&#47;Trustinnewsorganizationsv2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
