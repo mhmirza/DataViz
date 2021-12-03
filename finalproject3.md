@@ -49,7 +49,7 @@ I have often heard an argument in favor of textile exports from emerging economi
 
 * Data Sources utilized in this presentation have been referenced in the footer of each data visualization, with a working copy of each dataset uploaded on Github repository.
 * Images have primarily been used from [Unsplash](https://unsplash.com/) and [Pexel](https://www.pexels.com/), with author credits provided under each image. 
-* Statistics quoted in the website have been referenced at the end of the Shorthand website.
+* Statistics quoted in the website have been referenced in-text and at the end of the Shorthand website.
 
 #### Data Sources
 From part 1 of the project, the following data sources were finalized and used for visualizations embedded in the website. A downloaded copy of the datasets below can be found on the Github Repository [here](https://github.com/mhmirza/portfolio/tree/main/Project%20Data%20Files).  
