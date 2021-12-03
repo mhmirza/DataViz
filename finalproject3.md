@@ -47,9 +47,9 @@ I have often heard an argument in favor of textile exports from emerging economi
 
 ### Reference Materials
 
-* Data Sources utilized in this presentation have been referenced in the footer of each data visualization, with a working copy of each dataset uploaded on Github repository.
-* Images have primarily been used from [Unsplash](https://unsplash.com/) and [Pexel](https://www.pexels.com/), with author credits provided under each image. 
-* Statistics quoted in the website have been referenced in-text and at the end of the Shorthand website.
+1. For data sources utilized, the source has been provided in the footer of each data visualization on the website.
+2. For images used, author credits have been mentioned under the footer for each image used on the website.
+3. For statistics quoted, in-text citations have been added along with a reference section provided at the end of the website.
 
 #### Data Sources
 From part 1 of the project, the following data sources were finalized and used for visualizations embedded in the website. A downloaded copy of the datasets below can be found on the Github Repository [here](https://github.com/mhmirza/portfolio/tree/main/Project%20Data%20Files).  
@@ -66,4 +66,7 @@ From part 1 of the project, the following data sources were finalized and used f
 * [TheGreens/EFA](https://www.annacavazzini.eu/wp-content/uploads/GreensEFA-study-on-Europes-Child-Labour-Footprint.pdf)
 * [GreenStory](https://cf-assets-tup.thredup.com/about/pwa/thredUP-Clothing-Lifecycle-Study.pdf)
 
-#### Other Citations
+#### Images
+
+
+#### Statistics
