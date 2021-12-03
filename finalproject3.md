@@ -36,10 +36,6 @@ The user research from part 3 not only helped me gain a crucial perspective to m
 ### Final Deliverable
 After refining the elements in my initial storyboard and incorporating changes based on common patterns identified in the user research phase, I was able to put together my final website. The link to the final deliverable can be found here: [Fast Fashion: The Hidden Costs](https://carnegiemellon.shorthandstories.com/fast-fashion-the-hidden-costs/index.html). 
 
-* Data Sources utilized in this presentation have been referenced in the footer of each data visualization, with a working copy of each dataset uploaded on Github repository.
-* Images have primarily been used from [Unsplash](https://unsplash.com/) and [Pexel](https://www.pexels.com/), with author credits provided under each image. 
-* Statistics quoted in the website have been referenced at the end of the Shorthand website.
-
 ### Intended Audience
 This story is designed for an audience, which acknowledges the importance of socio-environmental theories. In simpler words, this story is meant for people who realize that human decisions have a bearing on the status of ecosystems, which in turn affect the sustainability of human life and our future decisions. Initially, I was concerned about moving forward with this assumption of my audience being in favor of making sustainable, socially responsible choices, but considering the scope of conversations revolving around critical issues such as climate change and child labor, I thought this leap of faith was much warranted. 
 
@@ -50,6 +46,10 @@ Since we, as humans, do not like to be dictated about the lifestyle choices we m
 I have often heard an argument in favor of textile exports from emerging economies, from my acquaintances, who I would consider to be part of the intended audience for this story. This is based on the flawed notion of how textile trade drives employment in these regions! While this may be true to some extent, I wanted to present two key counterarguments: young workers in these regions do not get a fair share of compensation for the effort they put into the supply chain and child labor severely undermines other developmental outcomes, such as education, for these workers. If I could redo this story, I would wish to add more statistics or visualizations which could help me negate each possible arguments in favor of fast fashion, and negate it with specific data.  
 
 ### Reference Materials
+
+* Data Sources utilized in this presentation have been referenced in the footer of each data visualization, with a working copy of each dataset uploaded on Github repository.
+* Images have primarily been used from [Unsplash](https://unsplash.com/) and [Pexel](https://www.pexels.com/), with author credits provided under each image. 
+* Statistics quoted in the website have been referenced at the end of the Shorthand website.
 
 #### Data Sources
 From part 1 of the project, the following data sources were finalized and used for visualizations embedded in the website. A downloaded copy of the datasets below can be found on the Github Repository [here](https://github.com/mhmirza/portfolio/tree/main/Project%20Data%20Files).  
