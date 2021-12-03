@@ -51,6 +51,4 @@ I have often heard an argument in favor of textile exports from emerging economi
 
 ### Reference Materials
 * Data Sources
-* Images
 * Other Citations
-* Tools Used: Shorthand, Tableau, Flourish, Infogram, Adobe Color
