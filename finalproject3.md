@@ -62,6 +62,6 @@ I have often heard an argument in favor of textile exports from emerging economi
 8. [Our World in Data](https://ourworldindata.org/grapher/plastic-production-polymer?tab=table) with a downloaded copy which can be found here []().
 9. [International Union for Conservation of Nature](https://portals.iucn.org/library/sites/library/files/documents/2017-002-En.pdf) with a downloaded copy which can be found here []().
 10. [TheGreens/EFA](https://www.annacavazzini.eu/wp-content/uploads/GreensEFA-study-on-Europes-Child-Labour-Footprint.pdf) with a downloaded copy which can be found here []().
-11. 
+11. [GreenStory](https://cf-assets-tup.thredup.com/about/pwa/thredUP-Clothing-Lifecycle-Study.pdf) with a downloaded copy which can be found here []().
 
 #### Other Citations
