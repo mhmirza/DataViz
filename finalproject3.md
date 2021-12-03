@@ -1,8 +1,8 @@
-[Back to Final Project: Part 1](/finalproject1.md)
+[Back to Part 1: Final Project](/finalproject1.md)
 
-[Back to Final Project: Part 2](/finalproject2.md)
+[Back to Part 2: Final Project](/finalproject2.md)
 
-# Final Project: Part 3
+# Part 3: Final Project
 
 ## Summary
 
