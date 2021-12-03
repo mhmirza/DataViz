@@ -20,7 +20,7 @@ Here are the assignments that I have completed during the course of this class.
 
 ## Data Visualization Critique
 
-[Critique By Design](/critique-by-design.md)
+[Assignment: Critique By Design](/critique-by-design.md)
 
 ## In-class Exercises
 
@@ -30,7 +30,7 @@ Here are the assignments that I have completed during the course of this class.
 
 ## Data Visualization Workshop
 
-[Visualizing Government Debt](/dataviz2.md)
+[Assignment: Visualizing Government Debt](/dataviz2.md)
 
 ## Final Project
 
