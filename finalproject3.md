@@ -34,9 +34,11 @@ The user research from part 3 not only helped me gain a crucial perspective to m
 4. In terms of the **flow of the story** and **textual information**, I reduced the navigation sections from 7 to 5 (excluding references) to eliminate redundancy. This also allowed me to enhance the aesthetic appeal of the website by introducing Fade transitions on Shorthand between images within the merged sections. Moreover, for blocks of text which contained key statistics such as the content in the introductory section, I used custom HTML blocks to change the size and color of these chunks of information for better user attention. Finally, I used a more precise definition of fast fashion in the introuductory section and to add more weightage to my argument on child labor, I added additional textual information which could bolster correponding information within the section "Who is responsible for this?".  
 
 ### Final Deliverable
+
 After refining the elements in my initial storyboard and incorporating changes based on common patterns identified in the user research phase, I was able to put together my final website. The link to the final deliverable can be found here: [Fast Fashion: The Hidden Costs](https://carnegiemellon.shorthandstories.com/fast-fashion-the-hidden-costs/index.html). 
 
 ### Intended Audience
+
 This story is designed for an audience, which acknowledges the importance of socio-environmental theories. In simpler words, this story is meant for people who realize that human decisions have a bearing on the status of ecosystems, which in turn affect the sustainability of human life and our future decisions. Initially, I was concerned about moving forward with this assumption of my audience being in favor of making sustainable, socially responsible choices, but considering the scope of conversations revolving around critical issues such as climate change and child labor, I thought this leap of faith was much warranted. 
 
 Based on this preconceived expectation from the audience, I wanted to bring fast fashion into play. In some very recent conversations with my friends, I noticed how the low price tag of an apparel item in any store was much celebrated. This made me think that we, as humans, are very keen to discuss external costs when it comes to for example suing a firm for pollution, but when it comes to our individual decisions, we tend to focus on private costs as in the example quoted above. Therefore, I wanted to design this story to raise awareness amongst a fairly educated audience, regarding the damage that has resulted from the fast fashion trend. While I started the story by discussing how cheap clothes are normally considered a good thing, I immediately delve into the problem of excess consumption. Throughout the story, I tried my best to utilize data from different countries to ensure that this trend is registered as a global problem, and not just a local issue which needed to be tackled.
@@ -52,6 +54,7 @@ I have often heard an argument in favor of textile exports from emerging economi
 3. For statistics quoted, in-text citations have been added along with a reference section provided at the end of the website.
 
 #### Data Sources
+
 From part 1 of the project, the following data sources were finalized and used for visualizations embedded in the website. A downloaded copy of the datasets below can be found on the Github Repository [here](https://github.com/mhmirza/portfolio/tree/main/Project%20Data%20Files).  
 
 * [U.S. Census Bureau](https://www.census.gov/data/tables/2019/econ/arts/annual-report.html)
@@ -67,6 +70,16 @@ From part 1 of the project, the following data sources were finalized and used f
 * [GreenStory](https://cf-assets-tup.thredup.com/about/pwa/thredUP-Clothing-Lifecycle-Study.pdf)
 
 #### Images
+
 Images used for the website were obtained from two sources only: [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/). A downloaded copy of the images can be found on the Github Repository [here](https://github.com/mhmirza/portfolio/tree/main/Project%20Images).  
 
 #### Statistics
+
+Textual information and key statistics quoted on the website were sourced from the following websites, articles or reports:
+
+* [The Wall Street Journal](https://www.wsj.com/articles/the-hidden-cost-of-cheap-fashion-could-catch-up-to-investors-zara-old-navy-11621556298)
+* [Oxford Languages](https://languages.oup.com/)
+* [World Resources Institute](https://www.wri.org/insights/numbers-economic-social-and-environmental-impacts-fast-fashion)
+* [SOMO](https://www.somo.nl/wp-content/uploads/2014/03/Fact-Sheet-child-labour-Focus-on-the-role-of-buying-companies.pdf)
+* [CNN Style](https://www.cnn.com/interactive/2020/09/style/fashion-in-numbers-sept/)
+* [Global Citizen](https://www.globalcitizen.org/en/content/fast-fashion-how-to-be-sustainable/)
