@@ -52,7 +52,7 @@ I have often heard an argument in favor of textile exports from emerging economi
 ### Reference Materials
 
 #### Data Sources
-From part 1 of the project, the following data sources were finalized and used for visualizations embedded in the website. A working copy of the downloaded datasets can be found on the Github Repository here [/Project Data Files/].  
+From part 1 of the project, the following data sources were finalized and used for visualizations embedded in the website. A working copy of the downloaded datasets can be found on the Github Repository [here](/Project Data Files/).  
 
 1. [U.S. Census Bureau](https://www.census.gov/data/tables/2019/econ/arts/annual-report.html)
 2. [U.S. Bureau of Labor Statistics](https://www.bls.gov/cpi/tables/seasonal-adjustment/home.html)
