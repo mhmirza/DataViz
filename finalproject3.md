@@ -58,7 +58,7 @@ From my acquaintances, who I would consider to be part of the intended audience 
 From part 1 of the project, the following data sources were finalized and used for visualizations embedded in the website. A downloaded copy of the datasets below can be found on the Github Repository [here](https://github.com/mhmirza/portfolio/tree/main/Project%20Data%20Files).  
 
 * [U.S. Census Bureau](https://www.census.gov/data/tables/2019/econ/arts/annual-report.html)
-* [U.S. Bureau of Labor Statistics](https://www.bls.gov/cpi/tables/seasonal-adjustment/home.html)
+* [U.S. Bureau of Labor Statistics](https://www.bls.gov/cpi/tables/seasonal-adjustment/home.htm)
 * [Statista](https://www.statista.com/statistics/1008241/fast-fashion-market-value-forecast-worldwide/)
 * [Data.world](https://data.world/uscensusbureau/monthly-retail-trade-survey)
 * [Movinga](https://www.consumptionandenvironment.com/home/how-many-clothes-we-own-and-how-many-clothes-we-wear)
