@@ -1,4 +1,4 @@
-# In Class Exercise - Tableau
+# The New York Times
 
 For this excercise, we used the The New York Times data for Covid-19 in the United States, which can be found [here](https://github.com/nytimes/covid-19-data). 
 
