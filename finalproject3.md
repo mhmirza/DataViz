@@ -43,7 +43,9 @@ After refining the elements in my initial storyboard and incorporating changes b
 ### Intended Audience
 This story is designed for an audience, which acknowledges the importance of socio-environmental theories. In simpler words, this story is meant for people who realize that human decisions have a bearing on the status of ecosystems, which in turn affect the sustainability of human life and our future decisions.
 
-Initially, I was concerned about moving forward with this assumption of my audience being in favor of making sustainable, socially responsible choices, but considering the scope of conversations revolving around critical issues such as climate change and child labor, I thought this leap of faith was much warranted. Based on this preconceived expectation from the audience, I wanted to   
+Initially, I was concerned about moving forward with this assumption of my audience being in favor of making sustainable, socially responsible choices, but considering the scope of conversations revolving around critical issues such as climate change and child labor, I thought this leap of faith was much warranted. Based on this preconceived expectation from the audience, I wanted to bring fast fashion into play. In some very recent conversations with my friends, I noticed how the low price tag of an apparel item in any store was much celebrated. This made me think that we, as humans, are very keen to discuss external costs when it comes to for example suing a firm for pollution, but when it comes to our individual decisions, we tend to focus on private costs as in the example quoted above.
+
+Therefore, I wanted to design this story to raise awareness amongst a fairly educated audience, regarding the damage that has resulted from the fast fashion trend. While I started the story by discussing how cheap clothes are normally considered a good thing, I immediately delve into the problem of excess consumption.
 
 ### Reference Materials
 * Data Sources
