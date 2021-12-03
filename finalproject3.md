@@ -50,5 +50,8 @@ Since we, as humans, do not like to be dictated about the lifestyle choices we m
 I have often heard an argument in favor of textile exports from emerging economies, from my acquaintances, who I would consider to be part of the intended audience for this story. This is based on the flawed notion of how textile trade drives employment in these regions! While this may be true to some extent, I wanted to present two key counterarguments: young workers in these regions do not get a fair share of compensation for the effort they put into the supply chain and child labor severely undermines other developmental outcomes, such as education, for these workers. If I could redo this story, I would wish to add more statistics or visualizations which could help me negate each possible arguments in favor of fast fashion, and negate it with specific data.  
 
 ### Reference Materials
-* Data Sources
-* Other Citations
+
+#### Data Sources
+1. [U.S. Census Bureau](https://www.census.gov/data/tables/2019/econ/arts/annual-report.html) with a downloaded copy which can be found here []().
+
+#### Other Citations
