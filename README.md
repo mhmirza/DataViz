@@ -28,7 +28,7 @@ Here are the assignments that I have completed during the course of this class.
 
 [The New York Times](/inclass2.md)
 
-## Data Visualization Workshops
+## Data Visualization Workshop
 
 [Assignment 2](/dataviz2.md)
 
