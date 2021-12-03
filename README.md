@@ -6,7 +6,7 @@ This portfolio captures the work I completed for a course, Telling Stories with 
 
 Hi, I am Manzoor! I am 27 years old, but I might look much older to you if we ever get to meet. I am a graudate student at Carnegie Mellon University pursuing Masters in Public Policy and Management: Data Analytics. Prior to joining graduate school, I was working with GlaxoSmithKline in their Customer Insights division, based out of Pakistan.
 
-Before I visualize any data, let me visualize myself. Here is a picture of me from a trip that I took to Langkawi, Malaysia during the winter vacations of 2019.
+Before I visualize any data, let me visualize myself. Here is a picture of me from a trip that I took to Langkawi, Malaysia during winter vacations of 2019.
 
 ![image](https://user-images.githubusercontent.com/93225948/138967997-8e45694e-bc32-4a82-82f1-1afcac2fe194.png)
 
