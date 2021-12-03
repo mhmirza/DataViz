@@ -41,8 +41,7 @@ After refining the elements in my initial storyboard and incorporating changes b
 * Statistics quoted in the website have been referenced at the end of the Shorthand website.
 
 ### Intended Audience
-
-You and we.
+This story is designed for an audience, which acknowledges the importance of socio-environmental theories. In simpler words, this story is meant for people who realize that human decisions have a bearing on the status of ecosystems, which in turn affect the sustainability of human life and our future decisions. 
 
 ### Reference Materials
 * Data Sources
