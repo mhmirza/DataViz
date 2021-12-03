@@ -53,5 +53,8 @@ I have often heard an argument in favor of textile exports from emerging economi
 
 #### Data Sources
 1. [U.S. Census Bureau](https://www.census.gov/data/tables/2019/econ/arts/annual-report.html) with a downloaded copy which can be found here []().
+2. [U.S. Bureau of Labor Statistics](https://www.bls.gov/cpi/tables/seasonal-adjustment/home.html) with a downloaded copy which can be found here []().
+3. 
+
 
 #### Other Citations
