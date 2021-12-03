@@ -1,6 +1,6 @@
 # portfolio
 
-This portfolio captures the work I completed for a course, Telling Stories with Data, at Carnegie Mellon University in Fall 2021. It includes data visualization critique, in-class exercises, data visualization workshop and the final project. Links for each of these components have been provided below.
+This portfolio captures the work I completed for a course, [Telling Stories with Data](https://api.heinz.cmu.edu/courses_api/course_detail/94-870/), at Carnegie Mellon University in Fall 2021. It includes data visualization critique, in-class exercises, data visualization workshop and the final project. Links for each of these components have been provided below.
 
 # About me
 
