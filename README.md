@@ -19,6 +19,7 @@ Here are the assignments and projects that I have completed during the course of
 ## In-class Exercises
 
 [Simmons Research](/inclass.md)
+
 [The New York Times](/inclass2.md)
 
 ## Data Visualization Workshops
