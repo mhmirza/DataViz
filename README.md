@@ -1,5 +1,5 @@
 # portfolio
-Telling Stories with Data: data visualization critiques, workshop materials and information related to final project.
+This portfolio captures the work I completed for a course, Telling Stories with Data, at Carnegie Mellon University in Fall 2021. It includes data visualization critique, in-class exercises, data visualization workshop and the final project. Links for each of these components have been provided below.
 
 # About me
 Hi, I am Manzoor! I am 27 years old, but I might look much older to you if we ever get to meet. I am a graudate student at Carnegie Mellon University pursuing Masters in Public Policy and Management: Data Analytics. Prior to joining grad school, I was working with GlaxoSmithKline in their Customer Insights division, based out of Pakistan.               
