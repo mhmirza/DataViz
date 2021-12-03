@@ -12,7 +12,7 @@ Before I visualize any data, let me visualize myself. Here is a picture of me fr
 
 # What I hope to learn?
 
-From the course, Telling Stories with Data, I wish to learn how to leverage good design practices and visualization techniques to present data in a compelling manner. Since narrative is the heart of any story, I wish to gain an understanding of how these methods and mediums can be used to form a persuasive, data-driven story. By the end of this course, I hope to develop skills which could allow me to identify an impactful visualizaton and constructively critique/ redesign a weak visualization by decomposing its elements. 
+From the course, Telling Stories with Data, I wish to learn how to leverage good design practices and visualization techniques to present data in a compelling manner. Since narrative is the heart of any story, I wish to gain an understanding of how these methods and mediums can be used to form a persuasive, data-driven story. By the end of this course, I hope to develop skills which could allow me to identify an impactful visualization and constructively critique/ redesign a weak visualization by decomposing its elements. 
 
 # Portfolio
 
