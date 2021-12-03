@@ -1,4 +1,4 @@
-### In Class Exercise - Tableau
+# In Class Exercise - Tableau
 
 The graphic below was created using [Tableau](https://www.tableau.com/) based on results from the Simmons Research survey, which collected responses from over 2,000 individuals about their level of trust on 38 of the most well known sources for news in the United States. First, I recreated below the visualization found on [NeimanLab's blog](https://www.niemanlab.org/2018/10/heres-how-much-americans-trust-38-major-news-organizations-hint-not-all-that-much/).
 
