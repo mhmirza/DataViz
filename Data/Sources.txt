@@ -1,0 +1,61 @@
+SECTION 1:
+
+i) Annual Retail Survey: Per Capita Sales from 2000 - 2019 by kind of business (e.g. clothing, autmobiles)
+https://www.census.gov/data/tables/2019/econ/arts/annual-report.html
+
+ii) Revised seasonally adjusted indexes and factors, 2016-2020 (XLSX) (Inspiration from https://www.mckinsey.com/business-functions/sustainability/our-insights/style-thats-sustainable-a-new-fast-fashion-formula)
+https://www.bls.gov/cpi/tables/seasonal-adjustment/home.htm
+
+iii) Backup: Personal Expenditures 
+https://data.world/garyhoov/personal-expenditures-function
+
+SECTION 2:
+iv) Growth of fast fashion industry
+https://www.statista.com/statistics/1008241/fast-fashion-market-value-forecast-worldwide/
+
+v) Retail Inventories on the Rise
+https://data.world/uscensusbureau/monthly-retail-trade-survey
+
+vi) Percentage of unworn clothes in the wardrobe
+https://www.consumptionandenvironment.com/home/how-many-clothes-we-own-and-how-many-clothes-we-wear
+
+vii) Amount of clothes owned
+https://www.kaggle.com/thomaskonstantin/fashion-researchpersonal-and-garment-information
+
+SECTION 3:
+viii) The data below are from 1960 to 2018, relating to the total number of tons of textiles generated, recycled, composted, combusted with energy recovery and landfilled:
+https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/textiles-material-specific-data#TextilesTableandGraph
+
+ix) Primary plastic production by industrial sector
+https://ourworldindata.org/grapher/plastic-production-polymer
+
+x) Global releases of primary microplastics to the world oceans (Fgiure 4 pie chart)
+https://portals.iucn.org/library/sites/library/files/documents/2017-002-En.pdf
+
+xi) Excel File downloaded (Name: statistics_id1102998_carbon...)
+https://www.statista.com/statistics/1102998/carbon-footprint-of-european-fashion-brands/
+
+xii) Annex II: EU imports associated with child labour 
+https://www.annacavazzini.eu/wp-content/uploads/GreensEFA-study-on-Europes-Child-Labour-Footprint.pdf
+
+SECTION 4:
+xiii) LEVI’S® 501® JEAN LIFECYCLE IMPACT (Slide 47)
+http://www.levistrauss.com/wp-content/uploads/2015/03/Full-LCA-Results-Deck-FINAL.pdf
+
+SECTION 5:
+xiv) Water, Energy and Emissions Savings from Reuse of Clothes
+https://cf-assets-tup.thredup.com/about/pwa/thredUP-Clothing-Lifecycle-Study.pdf
+
+xv) Four Ambitions
+file:///C:/Users/Dell/Downloads/A%20New%20Textiles%20Economy%20-%20Full%20Report%20-%20Updated%201-12-17.pdf
+
+xvi) Responsible Brands Recycling
+https://www.acteevism.com/2019/05/29/these-companies-actually-recycle-your-old-clothes-and-reward-you-for-it-too/
+
+OTHER USEFUL LINKS:
+i) https://labs.theguardian.com/unicef-child-labour/
+ii) https://www.wri.org/insights/numbers-economic-social-and-environmental-impacts-fast-fashion
+iii) https://issuu.com/fashionrevolution/docs/fashrev_consumersurvey_2020_full
+iv) https://www.cnn.com/interactive/2020/09/style/fashion-in-numbers-sept/
+v) https://www.commonobjective.co/article/volume-and-consumption-how-much-does-the-world-buy
+vi) https://emf.thirdlight.com/link/2axvc7eob8zx-za4ule/@/preview/1?o
