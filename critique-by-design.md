@@ -33,7 +33,7 @@ In terms of redesign, I would possibly use a standard world map with bubble size
 
 I believe the primary audience for this visualization is university students/ professionals from the field of political science or general audience seeking a quick understanding of the global economic repercussions of deteriorating US-China relations. Based on my experience, economists usually rely on reports and tables instead of articles and graphs, which makes me rule this segment out of the intended audience. Moreover, since the article uses terminology from university level and beyond, the graphic can reasonably be thought to target individuals who possess a basic understanding of what economic indicators such as Forex Reserves mean. 
 
-For elements in the the critique approach primarily associated with audience needs, I have evaluated the effectiveness of this visualization in reaching the intended audience.
+For elements in the critique approach primarily associated with audience needs, I have evaluated the effectiveness of this visualization in reaching the intended audience.
 
 **Usefulness:** Since Forex Reserves are a key indicator of a country’s health, it seems to be wise choice to represent this information to highlight a country’s economic performance. However, they do not provide a holistic picture, which makes this graphic limited in its usefulness. Moreover, the graph shows no information about exports which are mentioned in the article’s section header for this visualization. Keeping in mind the intended audience above, we can fairly assume the audience would be able associate larger Forex Reserves with better economic stability. 
 
