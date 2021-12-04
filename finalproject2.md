@@ -5,11 +5,13 @@
 # Part 2: Final Project
 
 ## Storyboard
+
 For my storyboard, I decided to use [Shorthand](https://shorthand.com/) since I felt its functionality would allow me to effectively piece the story together using my outline from [Part 1](/finalproject2.md) of this project and also help the users in navigating through my narrative. The preview link for the storyboard can be found [here](https://preview.shorthand.com/i2LOY168IkxSJAyQ), which also includes the visualizations made using [Flourish](https://flourish.studio/) and [Tableau](https://www.tableau.com/).
 
 ## User Research
 
 ### Target Audience 
+
 The target audience for my story is individuals who are in favor of making sustainable, socially responsible choices but may not entirely be aware of the repercussions of fast fashion. While most individuals have long recognized climate change and child labor as global issues, fast fashion is a topic which has come under scrutiny only recently. The objective of this website is to make the audience aware that there are many hidden costs to fast fashion than just the price they pay for apparel. Since this is a global trend, I would want people in my user research to have varying demographics e.g. age, education, country of origin, to capture how receptivity and appeal to this narrative varies across fashion consumers from different walks of life. These are the profiles of individuals included in the interview: 
 
 * a male, undergraduate student, aged 19, from Pakistan
@@ -44,13 +46,16 @@ No. | Question | Person 1 | Person 2 | Person 3
 10 | Which elements would you change to make it more coherent and persuasive? Please include any comments about the overall design of the presentation. | a) I think on some pages I felt there were contrast issues. With dark colored image at the back and a dark colored chart on top of it. Maybe use lighter colored images in the background, where possible so there is more focus on the charts; b) Use fewer colors in the above mentioned charts! | The introduction of the element of child labor is good for the story; but it didn’t add up in the point it was presented. You should highlight “our government” so it is clear that this part of the message is pointed towards that. | The narrator can perhaps revisit some of the images used as background in the presentation. The colors are so bold on some, reading the text can be straining. 
 
 ### Changes Based on User Feedback
+
 Based on user research, I have categorized the suggestions under three umbrella elements:
 
 **1. Images:** 
+
 * Users felt that the use of images corresponding to the title of each section helped convey a strong message. However, the choice of images gave a sense that fast fashion has propagated in recent years due to the purchase decisions made by women. To rectify this, add/ replace a few images which include gender neutral content and categorically mention, for example, in the fashion research survey description that the sample encompassed included individuals from varying demographics. 
 * For the sections with graphs, use images which are less busy or decrease the transparency of the existing images to improve visibility and comprehension of the visualizations. 
 
 **2. Graphs:** 
+
 * Use a single color in the visualization for _"How Fast is the Fashion Market Expected to Grow."_ since multiple colors inadvertently suggest the presence of another dimension in the data.
 * In the chart, _"Brands are racing to keep the "newness" factor in fashion alive"_, highlight the inventories for apparel stores and move the rest to the background using gray. 
 * Replace the visualization, _"Are we spending less on clothes"_, with a line chart or change the scale of the existing chart so that the falling trend is more prominent. 
@@ -59,5 +64,6 @@ Based on user research, I have categorized the suggestions under three umbrella 
 * Improve the format and placement of the Tableau heat map since it seems to be unclear and interrupts the final call to action as suggested by interviewee 3.
 
 **3. Texts:** 
+
 * To ensure that the users process the key statistics, as suggested by interviewee 2, highlight key statistics in the section for _"Why should we be concerned?"_ and _"Who should we blame?"_ by using [Canva](https://www.canva.com/) or [Infogram](https://infogram.com/) to make it more prominent.
 * The section _"Who should we blame?"_ could highlight additional information regarding the use of child labor, specifically in the fast fashion industry. Given the data is accessible online, incorporate additional statistics regarding this impact as suggested by User 3.  
