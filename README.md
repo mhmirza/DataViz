@@ -1,3 +1,5 @@
+[Back to Home Page](https://mhmirza.github.io/mhmirza/)
+
 # DataViz
 
 This portfolio captures the work I completed for a course, **Telling Stories with Data**, at Carnegie Mellon University in Fall 2021. It includes data visualization critique, in-class exercises, data visualization workshop and the final project. Links for each of these components have been provided below. To view my course repository on GitHub, please click [here](https://github.com/mhmirza/portfolio).
